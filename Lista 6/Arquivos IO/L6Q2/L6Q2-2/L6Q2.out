@@ -1,0 +1,5120 @@
+Estado inicial:
+Torre A: 10 9 8 7 6 5 4 3 2 1 
+Torre B: 
+Torre C: 
+
+Movimento 1:
+Torre A: 10 9 8 7 6 5 4 3 2 
+Torre B: 1 
+Torre C: 
+
+Movimento 2:
+Torre A: 10 9 8 7 6 5 4 3 
+Torre B: 1 
+Torre C: 2 
+
+Movimento 3:
+Torre A: 10 9 8 7 6 5 4 3 
+Torre B: 
+Torre C: 2 1 
+
+Movimento 4:
+Torre A: 10 9 8 7 6 5 4 
+Torre B: 3 
+Torre C: 2 1 
+
+Movimento 5:
+Torre A: 10 9 8 7 6 5 4 1 
+Torre B: 3 
+Torre C: 2 
+
+Movimento 6:
+Torre A: 10 9 8 7 6 5 4 1 
+Torre B: 3 2 
+Torre C: 
+
+Movimento 7:
+Torre A: 10 9 8 7 6 5 4 
+Torre B: 3 2 1 
+Torre C: 
+
+Movimento 8:
+Torre A: 10 9 8 7 6 5 
+Torre B: 3 2 1 
+Torre C: 4 
+
+Movimento 9:
+Torre A: 10 9 8 7 6 5 
+Torre B: 3 2 
+Torre C: 4 1 
+
+Movimento 10:
+Torre A: 10 9 8 7 6 5 2 
+Torre B: 3 
+Torre C: 4 1 
+
+Movimento 11:
+Torre A: 10 9 8 7 6 5 2 1 
+Torre B: 3 
+Torre C: 4 
+
+Movimento 12:
+Torre A: 10 9 8 7 6 5 2 1 
+Torre B: 
+Torre C: 4 3 
+
+Movimento 13:
+Torre A: 10 9 8 7 6 5 2 
+Torre B: 1 
+Torre C: 4 3 
+
+Movimento 14:
+Torre A: 10 9 8 7 6 5 
+Torre B: 1 
+Torre C: 4 3 2 
+
+Movimento 15:
+Torre A: 10 9 8 7 6 5 
+Torre B: 
+Torre C: 4 3 2 1 
+
+Movimento 16:
+Torre A: 10 9 8 7 6 
+Torre B: 5 
+Torre C: 4 3 2 1 
+
+Movimento 17:
+Torre A: 10 9 8 7 6 1 
+Torre B: 5 
+Torre C: 4 3 2 
+
+Movimento 18:
+Torre A: 10 9 8 7 6 1 
+Torre B: 5 2 
+Torre C: 4 3 
+
+Movimento 19:
+Torre A: 10 9 8 7 6 
+Torre B: 5 2 1 
+Torre C: 4 3 
+
+Movimento 20:
+Torre A: 10 9 8 7 6 3 
+Torre B: 5 2 1 
+Torre C: 4 
+
+Movimento 21:
+Torre A: 10 9 8 7 6 3 
+Torre B: 5 2 
+Torre C: 4 1 
+
+Movimento 22:
+Torre A: 10 9 8 7 6 3 2 
+Torre B: 5 
+Torre C: 4 1 
+
+Movimento 23:
+Torre A: 10 9 8 7 6 3 2 1 
+Torre B: 5 
+Torre C: 4 
+
+Movimento 24:
+Torre A: 10 9 8 7 6 3 2 1 
+Torre B: 5 4 
+Torre C: 
+
+Movimento 25:
+Torre A: 10 9 8 7 6 3 2 
+Torre B: 5 4 1 
+Torre C: 
+
+Movimento 26:
+Torre A: 10 9 8 7 6 3 
+Torre B: 5 4 1 
+Torre C: 2 
+
+Movimento 27:
+Torre A: 10 9 8 7 6 3 
+Torre B: 5 4 
+Torre C: 2 1 
+
+Movimento 28:
+Torre A: 10 9 8 7 6 
+Torre B: 5 4 3 
+Torre C: 2 1 
+
+Movimento 29:
+Torre A: 10 9 8 7 6 1 
+Torre B: 5 4 3 
+Torre C: 2 
+
+Movimento 30:
+Torre A: 10 9 8 7 6 1 
+Torre B: 5 4 3 2 
+Torre C: 
+
+Movimento 31:
+Torre A: 10 9 8 7 6 
+Torre B: 5 4 3 2 1 
+Torre C: 
+
+Movimento 32:
+Torre A: 10 9 8 7 
+Torre B: 5 4 3 2 1 
+Torre C: 6 
+
+Movimento 33:
+Torre A: 10 9 8 7 
+Torre B: 5 4 3 2 
+Torre C: 6 1 
+
+Movimento 34:
+Torre A: 10 9 8 7 2 
+Torre B: 5 4 3 
+Torre C: 6 1 
+
+Movimento 35:
+Torre A: 10 9 8 7 2 1 
+Torre B: 5 4 3 
+Torre C: 6 
+
+Movimento 36:
+Torre A: 10 9 8 7 2 1 
+Torre B: 5 4 
+Torre C: 6 3 
+
+Movimento 37:
+Torre A: 10 9 8 7 2 
+Torre B: 5 4 1 
+Torre C: 6 3 
+
+Movimento 38:
+Torre A: 10 9 8 7 
+Torre B: 5 4 1 
+Torre C: 6 3 2 
+
+Movimento 39:
+Torre A: 10 9 8 7 
+Torre B: 5 4 
+Torre C: 6 3 2 1 
+
+Movimento 40:
+Torre A: 10 9 8 7 4 
+Torre B: 5 
+Torre C: 6 3 2 1 
+
+Movimento 41:
+Torre A: 10 9 8 7 4 1 
+Torre B: 5 
+Torre C: 6 3 2 
+
+Movimento 42:
+Torre A: 10 9 8 7 4 1 
+Torre B: 5 2 
+Torre C: 6 3 
+
+Movimento 43:
+Torre A: 10 9 8 7 4 
+Torre B: 5 2 1 
+Torre C: 6 3 
+
+Movimento 44:
+Torre A: 10 9 8 7 4 3 
+Torre B: 5 2 1 
+Torre C: 6 
+
+Movimento 45:
+Torre A: 10 9 8 7 4 3 
+Torre B: 5 2 
+Torre C: 6 1 
+
+Movimento 46:
+Torre A: 10 9 8 7 4 3 2 
+Torre B: 5 
+Torre C: 6 1 
+
+Movimento 47:
+Torre A: 10 9 8 7 4 3 2 1 
+Torre B: 5 
+Torre C: 6 
+
+Movimento 48:
+Torre A: 10 9 8 7 4 3 2 1 
+Torre B: 
+Torre C: 6 5 
+
+Movimento 49:
+Torre A: 10 9 8 7 4 3 2 
+Torre B: 1 
+Torre C: 6 5 
+
+Movimento 50:
+Torre A: 10 9 8 7 4 3 
+Torre B: 1 
+Torre C: 6 5 2 
+
+Movimento 51:
+Torre A: 10 9 8 7 4 3 
+Torre B: 
+Torre C: 6 5 2 1 
+
+Movimento 52:
+Torre A: 10 9 8 7 4 
+Torre B: 3 
+Torre C: 6 5 2 1 
+
+Movimento 53:
+Torre A: 10 9 8 7 4 1 
+Torre B: 3 
+Torre C: 6 5 2 
+
+Movimento 54:
+Torre A: 10 9 8 7 4 1 
+Torre B: 3 2 
+Torre C: 6 5 
+
+Movimento 55:
+Torre A: 10 9 8 7 4 
+Torre B: 3 2 1 
+Torre C: 6 5 
+
+Movimento 56:
+Torre A: 10 9 8 7 
+Torre B: 3 2 1 
+Torre C: 6 5 4 
+
+Movimento 57:
+Torre A: 10 9 8 7 
+Torre B: 3 2 
+Torre C: 6 5 4 1 
+
+Movimento 58:
+Torre A: 10 9 8 7 2 
+Torre B: 3 
+Torre C: 6 5 4 1 
+
+Movimento 59:
+Torre A: 10 9 8 7 2 1 
+Torre B: 3 
+Torre C: 6 5 4 
+
+Movimento 60:
+Torre A: 10 9 8 7 2 1 
+Torre B: 
+Torre C: 6 5 4 3 
+
+Movimento 61:
+Torre A: 10 9 8 7 2 
+Torre B: 1 
+Torre C: 6 5 4 3 
+
+Movimento 62:
+Torre A: 10 9 8 7 
+Torre B: 1 
+Torre C: 6 5 4 3 2 
+
+Movimento 63:
+Torre A: 10 9 8 7 
+Torre B: 
+Torre C: 6 5 4 3 2 1 
+
+Movimento 64:
+Torre A: 10 9 8 
+Torre B: 7 
+Torre C: 6 5 4 3 2 1 
+
+Movimento 65:
+Torre A: 10 9 8 1 
+Torre B: 7 
+Torre C: 6 5 4 3 2 
+
+Movimento 66:
+Torre A: 10 9 8 1 
+Torre B: 7 2 
+Torre C: 6 5 4 3 
+
+Movimento 67:
+Torre A: 10 9 8 
+Torre B: 7 2 1 
+Torre C: 6 5 4 3 
+
+Movimento 68:
+Torre A: 10 9 8 3 
+Torre B: 7 2 1 
+Torre C: 6 5 4 
+
+Movimento 69:
+Torre A: 10 9 8 3 
+Torre B: 7 2 
+Torre C: 6 5 4 1 
+
+Movimento 70:
+Torre A: 10 9 8 3 2 
+Torre B: 7 
+Torre C: 6 5 4 1 
+
+Movimento 71:
+Torre A: 10 9 8 3 2 1 
+Torre B: 7 
+Torre C: 6 5 4 
+
+Movimento 72:
+Torre A: 10 9 8 3 2 1 
+Torre B: 7 4 
+Torre C: 6 5 
+
+Movimento 73:
+Torre A: 10 9 8 3 2 
+Torre B: 7 4 1 
+Torre C: 6 5 
+
+Movimento 74:
+Torre A: 10 9 8 3 
+Torre B: 7 4 1 
+Torre C: 6 5 2 
+
+Movimento 75:
+Torre A: 10 9 8 3 
+Torre B: 7 4 
+Torre C: 6 5 2 1 
+
+Movimento 76:
+Torre A: 10 9 8 
+Torre B: 7 4 3 
+Torre C: 6 5 2 1 
+
+Movimento 77:
+Torre A: 10 9 8 1 
+Torre B: 7 4 3 
+Torre C: 6 5 2 
+
+Movimento 78:
+Torre A: 10 9 8 1 
+Torre B: 7 4 3 2 
+Torre C: 6 5 
+
+Movimento 79:
+Torre A: 10 9 8 
+Torre B: 7 4 3 2 1 
+Torre C: 6 5 
+
+Movimento 80:
+Torre A: 10 9 8 5 
+Torre B: 7 4 3 2 1 
+Torre C: 6 
+
+Movimento 81:
+Torre A: 10 9 8 5 
+Torre B: 7 4 3 2 
+Torre C: 6 1 
+
+Movimento 82:
+Torre A: 10 9 8 5 2 
+Torre B: 7 4 3 
+Torre C: 6 1 
+
+Movimento 83:
+Torre A: 10 9 8 5 2 1 
+Torre B: 7 4 3 
+Torre C: 6 
+
+Movimento 84:
+Torre A: 10 9 8 5 2 1 
+Torre B: 7 4 
+Torre C: 6 3 
+
+Movimento 85:
+Torre A: 10 9 8 5 2 
+Torre B: 7 4 1 
+Torre C: 6 3 
+
+Movimento 86:
+Torre A: 10 9 8 5 
+Torre B: 7 4 1 
+Torre C: 6 3 2 
+
+Movimento 87:
+Torre A: 10 9 8 5 
+Torre B: 7 4 
+Torre C: 6 3 2 1 
+
+Movimento 88:
+Torre A: 10 9 8 5 4 
+Torre B: 7 
+Torre C: 6 3 2 1 
+
+Movimento 89:
+Torre A: 10 9 8 5 4 1 
+Torre B: 7 
+Torre C: 6 3 2 
+
+Movimento 90:
+Torre A: 10 9 8 5 4 1 
+Torre B: 7 2 
+Torre C: 6 3 
+
+Movimento 91:
+Torre A: 10 9 8 5 4 
+Torre B: 7 2 1 
+Torre C: 6 3 
+
+Movimento 92:
+Torre A: 10 9 8 5 4 3 
+Torre B: 7 2 1 
+Torre C: 6 
+
+Movimento 93:
+Torre A: 10 9 8 5 4 3 
+Torre B: 7 2 
+Torre C: 6 1 
+
+Movimento 94:
+Torre A: 10 9 8 5 4 3 2 
+Torre B: 7 
+Torre C: 6 1 
+
+Movimento 95:
+Torre A: 10 9 8 5 4 3 2 1 
+Torre B: 7 
+Torre C: 6 
+
+Movimento 96:
+Torre A: 10 9 8 5 4 3 2 1 
+Torre B: 7 6 
+Torre C: 
+
+Movimento 97:
+Torre A: 10 9 8 5 4 3 2 
+Torre B: 7 6 1 
+Torre C: 
+
+Movimento 98:
+Torre A: 10 9 8 5 4 3 
+Torre B: 7 6 1 
+Torre C: 2 
+
+Movimento 99:
+Torre A: 10 9 8 5 4 3 
+Torre B: 7 6 
+Torre C: 2 1 
+
+Movimento 100:
+Torre A: 10 9 8 5 4 
+Torre B: 7 6 3 
+Torre C: 2 1 
+
+Movimento 101:
+Torre A: 10 9 8 5 4 1 
+Torre B: 7 6 3 
+Torre C: 2 
+
+Movimento 102:
+Torre A: 10 9 8 5 4 1 
+Torre B: 7 6 3 2 
+Torre C: 
+
+Movimento 103:
+Torre A: 10 9 8 5 4 
+Torre B: 7 6 3 2 1 
+Torre C: 
+
+Movimento 104:
+Torre A: 10 9 8 5 
+Torre B: 7 6 3 2 1 
+Torre C: 4 
+
+Movimento 105:
+Torre A: 10 9 8 5 
+Torre B: 7 6 3 2 
+Torre C: 4 1 
+
+Movimento 106:
+Torre A: 10 9 8 5 2 
+Torre B: 7 6 3 
+Torre C: 4 1 
+
+Movimento 107:
+Torre A: 10 9 8 5 2 1 
+Torre B: 7 6 3 
+Torre C: 4 
+
+Movimento 108:
+Torre A: 10 9 8 5 2 1 
+Torre B: 7 6 
+Torre C: 4 3 
+
+Movimento 109:
+Torre A: 10 9 8 5 2 
+Torre B: 7 6 1 
+Torre C: 4 3 
+
+Movimento 110:
+Torre A: 10 9 8 5 
+Torre B: 7 6 1 
+Torre C: 4 3 2 
+
+Movimento 111:
+Torre A: 10 9 8 5 
+Torre B: 7 6 
+Torre C: 4 3 2 1 
+
+Movimento 112:
+Torre A: 10 9 8 
+Torre B: 7 6 5 
+Torre C: 4 3 2 1 
+
+Movimento 113:
+Torre A: 10 9 8 1 
+Torre B: 7 6 5 
+Torre C: 4 3 2 
+
+Movimento 114:
+Torre A: 10 9 8 1 
+Torre B: 7 6 5 2 
+Torre C: 4 3 
+
+Movimento 115:
+Torre A: 10 9 8 
+Torre B: 7 6 5 2 1 
+Torre C: 4 3 
+
+Movimento 116:
+Torre A: 10 9 8 3 
+Torre B: 7 6 5 2 1 
+Torre C: 4 
+
+Movimento 117:
+Torre A: 10 9 8 3 
+Torre B: 7 6 5 2 
+Torre C: 4 1 
+
+Movimento 118:
+Torre A: 10 9 8 3 2 
+Torre B: 7 6 5 
+Torre C: 4 1 
+
+Movimento 119:
+Torre A: 10 9 8 3 2 1 
+Torre B: 7 6 5 
+Torre C: 4 
+
+Movimento 120:
+Torre A: 10 9 8 3 2 1 
+Torre B: 7 6 5 4 
+Torre C: 
+
+Movimento 121:
+Torre A: 10 9 8 3 2 
+Torre B: 7 6 5 4 1 
+Torre C: 
+
+Movimento 122:
+Torre A: 10 9 8 3 
+Torre B: 7 6 5 4 1 
+Torre C: 2 
+
+Movimento 123:
+Torre A: 10 9 8 3 
+Torre B: 7 6 5 4 
+Torre C: 2 1 
+
+Movimento 124:
+Torre A: 10 9 8 
+Torre B: 7 6 5 4 3 
+Torre C: 2 1 
+
+Movimento 125:
+Torre A: 10 9 8 1 
+Torre B: 7 6 5 4 3 
+Torre C: 2 
+
+Movimento 126:
+Torre A: 10 9 8 1 
+Torre B: 7 6 5 4 3 2 
+Torre C: 
+
+Movimento 127:
+Torre A: 10 9 8 
+Torre B: 7 6 5 4 3 2 1 
+Torre C: 
+
+Movimento 128:
+Torre A: 10 9 
+Torre B: 7 6 5 4 3 2 1 
+Torre C: 8 
+
+Movimento 129:
+Torre A: 10 9 
+Torre B: 7 6 5 4 3 2 
+Torre C: 8 1 
+
+Movimento 130:
+Torre A: 10 9 2 
+Torre B: 7 6 5 4 3 
+Torre C: 8 1 
+
+Movimento 131:
+Torre A: 10 9 2 1 
+Torre B: 7 6 5 4 3 
+Torre C: 8 
+
+Movimento 132:
+Torre A: 10 9 2 1 
+Torre B: 7 6 5 4 
+Torre C: 8 3 
+
+Movimento 133:
+Torre A: 10 9 2 
+Torre B: 7 6 5 4 1 
+Torre C: 8 3 
+
+Movimento 134:
+Torre A: 10 9 
+Torre B: 7 6 5 4 1 
+Torre C: 8 3 2 
+
+Movimento 135:
+Torre A: 10 9 
+Torre B: 7 6 5 4 
+Torre C: 8 3 2 1 
+
+Movimento 136:
+Torre A: 10 9 4 
+Torre B: 7 6 5 
+Torre C: 8 3 2 1 
+
+Movimento 137:
+Torre A: 10 9 4 1 
+Torre B: 7 6 5 
+Torre C: 8 3 2 
+
+Movimento 138:
+Torre A: 10 9 4 1 
+Torre B: 7 6 5 2 
+Torre C: 8 3 
+
+Movimento 139:
+Torre A: 10 9 4 
+Torre B: 7 6 5 2 1 
+Torre C: 8 3 
+
+Movimento 140:
+Torre A: 10 9 4 3 
+Torre B: 7 6 5 2 1 
+Torre C: 8 
+
+Movimento 141:
+Torre A: 10 9 4 3 
+Torre B: 7 6 5 2 
+Torre C: 8 1 
+
+Movimento 142:
+Torre A: 10 9 4 3 2 
+Torre B: 7 6 5 
+Torre C: 8 1 
+
+Movimento 143:
+Torre A: 10 9 4 3 2 1 
+Torre B: 7 6 5 
+Torre C: 8 
+
+Movimento 144:
+Torre A: 10 9 4 3 2 1 
+Torre B: 7 6 
+Torre C: 8 5 
+
+Movimento 145:
+Torre A: 10 9 4 3 2 
+Torre B: 7 6 1 
+Torre C: 8 5 
+
+Movimento 146:
+Torre A: 10 9 4 3 
+Torre B: 7 6 1 
+Torre C: 8 5 2 
+
+Movimento 147:
+Torre A: 10 9 4 3 
+Torre B: 7 6 
+Torre C: 8 5 2 1 
+
+Movimento 148:
+Torre A: 10 9 4 
+Torre B: 7 6 3 
+Torre C: 8 5 2 1 
+
+Movimento 149:
+Torre A: 10 9 4 1 
+Torre B: 7 6 3 
+Torre C: 8 5 2 
+
+Movimento 150:
+Torre A: 10 9 4 1 
+Torre B: 7 6 3 2 
+Torre C: 8 5 
+
+Movimento 151:
+Torre A: 10 9 4 
+Torre B: 7 6 3 2 1 
+Torre C: 8 5 
+
+Movimento 152:
+Torre A: 10 9 
+Torre B: 7 6 3 2 1 
+Torre C: 8 5 4 
+
+Movimento 153:
+Torre A: 10 9 
+Torre B: 7 6 3 2 
+Torre C: 8 5 4 1 
+
+Movimento 154:
+Torre A: 10 9 2 
+Torre B: 7 6 3 
+Torre C: 8 5 4 1 
+
+Movimento 155:
+Torre A: 10 9 2 1 
+Torre B: 7 6 3 
+Torre C: 8 5 4 
+
+Movimento 156:
+Torre A: 10 9 2 1 
+Torre B: 7 6 
+Torre C: 8 5 4 3 
+
+Movimento 157:
+Torre A: 10 9 2 
+Torre B: 7 6 1 
+Torre C: 8 5 4 3 
+
+Movimento 158:
+Torre A: 10 9 
+Torre B: 7 6 1 
+Torre C: 8 5 4 3 2 
+
+Movimento 159:
+Torre A: 10 9 
+Torre B: 7 6 
+Torre C: 8 5 4 3 2 1 
+
+Movimento 160:
+Torre A: 10 9 6 
+Torre B: 7 
+Torre C: 8 5 4 3 2 1 
+
+Movimento 161:
+Torre A: 10 9 6 1 
+Torre B: 7 
+Torre C: 8 5 4 3 2 
+
+Movimento 162:
+Torre A: 10 9 6 1 
+Torre B: 7 2 
+Torre C: 8 5 4 3 
+
+Movimento 163:
+Torre A: 10 9 6 
+Torre B: 7 2 1 
+Torre C: 8 5 4 3 
+
+Movimento 164:
+Torre A: 10 9 6 3 
+Torre B: 7 2 1 
+Torre C: 8 5 4 
+
+Movimento 165:
+Torre A: 10 9 6 3 
+Torre B: 7 2 
+Torre C: 8 5 4 1 
+
+Movimento 166:
+Torre A: 10 9 6 3 2 
+Torre B: 7 
+Torre C: 8 5 4 1 
+
+Movimento 167:
+Torre A: 10 9 6 3 2 1 
+Torre B: 7 
+Torre C: 8 5 4 
+
+Movimento 168:
+Torre A: 10 9 6 3 2 1 
+Torre B: 7 4 
+Torre C: 8 5 
+
+Movimento 169:
+Torre A: 10 9 6 3 2 
+Torre B: 7 4 1 
+Torre C: 8 5 
+
+Movimento 170:
+Torre A: 10 9 6 3 
+Torre B: 7 4 1 
+Torre C: 8 5 2 
+
+Movimento 171:
+Torre A: 10 9 6 3 
+Torre B: 7 4 
+Torre C: 8 5 2 1 
+
+Movimento 172:
+Torre A: 10 9 6 
+Torre B: 7 4 3 
+Torre C: 8 5 2 1 
+
+Movimento 173:
+Torre A: 10 9 6 1 
+Torre B: 7 4 3 
+Torre C: 8 5 2 
+
+Movimento 174:
+Torre A: 10 9 6 1 
+Torre B: 7 4 3 2 
+Torre C: 8 5 
+
+Movimento 175:
+Torre A: 10 9 6 
+Torre B: 7 4 3 2 1 
+Torre C: 8 5 
+
+Movimento 176:
+Torre A: 10 9 6 5 
+Torre B: 7 4 3 2 1 
+Torre C: 8 
+
+Movimento 177:
+Torre A: 10 9 6 5 
+Torre B: 7 4 3 2 
+Torre C: 8 1 
+
+Movimento 178:
+Torre A: 10 9 6 5 2 
+Torre B: 7 4 3 
+Torre C: 8 1 
+
+Movimento 179:
+Torre A: 10 9 6 5 2 1 
+Torre B: 7 4 3 
+Torre C: 8 
+
+Movimento 180:
+Torre A: 10 9 6 5 2 1 
+Torre B: 7 4 
+Torre C: 8 3 
+
+Movimento 181:
+Torre A: 10 9 6 5 2 
+Torre B: 7 4 1 
+Torre C: 8 3 
+
+Movimento 182:
+Torre A: 10 9 6 5 
+Torre B: 7 4 1 
+Torre C: 8 3 2 
+
+Movimento 183:
+Torre A: 10 9 6 5 
+Torre B: 7 4 
+Torre C: 8 3 2 1 
+
+Movimento 184:
+Torre A: 10 9 6 5 4 
+Torre B: 7 
+Torre C: 8 3 2 1 
+
+Movimento 185:
+Torre A: 10 9 6 5 4 1 
+Torre B: 7 
+Torre C: 8 3 2 
+
+Movimento 186:
+Torre A: 10 9 6 5 4 1 
+Torre B: 7 2 
+Torre C: 8 3 
+
+Movimento 187:
+Torre A: 10 9 6 5 4 
+Torre B: 7 2 1 
+Torre C: 8 3 
+
+Movimento 188:
+Torre A: 10 9 6 5 4 3 
+Torre B: 7 2 1 
+Torre C: 8 
+
+Movimento 189:
+Torre A: 10 9 6 5 4 3 
+Torre B: 7 2 
+Torre C: 8 1 
+
+Movimento 190:
+Torre A: 10 9 6 5 4 3 2 
+Torre B: 7 
+Torre C: 8 1 
+
+Movimento 191:
+Torre A: 10 9 6 5 4 3 2 1 
+Torre B: 7 
+Torre C: 8 
+
+Movimento 192:
+Torre A: 10 9 6 5 4 3 2 1 
+Torre B: 
+Torre C: 8 7 
+
+Movimento 193:
+Torre A: 10 9 6 5 4 3 2 
+Torre B: 1 
+Torre C: 8 7 
+
+Movimento 194:
+Torre A: 10 9 6 5 4 3 
+Torre B: 1 
+Torre C: 8 7 2 
+
+Movimento 195:
+Torre A: 10 9 6 5 4 3 
+Torre B: 
+Torre C: 8 7 2 1 
+
+Movimento 196:
+Torre A: 10 9 6 5 4 
+Torre B: 3 
+Torre C: 8 7 2 1 
+
+Movimento 197:
+Torre A: 10 9 6 5 4 1 
+Torre B: 3 
+Torre C: 8 7 2 
+
+Movimento 198:
+Torre A: 10 9 6 5 4 1 
+Torre B: 3 2 
+Torre C: 8 7 
+
+Movimento 199:
+Torre A: 10 9 6 5 4 
+Torre B: 3 2 1 
+Torre C: 8 7 
+
+Movimento 200:
+Torre A: 10 9 6 5 
+Torre B: 3 2 1 
+Torre C: 8 7 4 
+
+Movimento 201:
+Torre A: 10 9 6 5 
+Torre B: 3 2 
+Torre C: 8 7 4 1 
+
+Movimento 202:
+Torre A: 10 9 6 5 2 
+Torre B: 3 
+Torre C: 8 7 4 1 
+
+Movimento 203:
+Torre A: 10 9 6 5 2 1 
+Torre B: 3 
+Torre C: 8 7 4 
+
+Movimento 204:
+Torre A: 10 9 6 5 2 1 
+Torre B: 
+Torre C: 8 7 4 3 
+
+Movimento 205:
+Torre A: 10 9 6 5 2 
+Torre B: 1 
+Torre C: 8 7 4 3 
+
+Movimento 206:
+Torre A: 10 9 6 5 
+Torre B: 1 
+Torre C: 8 7 4 3 2 
+
+Movimento 207:
+Torre A: 10 9 6 5 
+Torre B: 
+Torre C: 8 7 4 3 2 1 
+
+Movimento 208:
+Torre A: 10 9 6 
+Torre B: 5 
+Torre C: 8 7 4 3 2 1 
+
+Movimento 209:
+Torre A: 10 9 6 1 
+Torre B: 5 
+Torre C: 8 7 4 3 2 
+
+Movimento 210:
+Torre A: 10 9 6 1 
+Torre B: 5 2 
+Torre C: 8 7 4 3 
+
+Movimento 211:
+Torre A: 10 9 6 
+Torre B: 5 2 1 
+Torre C: 8 7 4 3 
+
+Movimento 212:
+Torre A: 10 9 6 3 
+Torre B: 5 2 1 
+Torre C: 8 7 4 
+
+Movimento 213:
+Torre A: 10 9 6 3 
+Torre B: 5 2 
+Torre C: 8 7 4 1 
+
+Movimento 214:
+Torre A: 10 9 6 3 2 
+Torre B: 5 
+Torre C: 8 7 4 1 
+
+Movimento 215:
+Torre A: 10 9 6 3 2 1 
+Torre B: 5 
+Torre C: 8 7 4 
+
+Movimento 216:
+Torre A: 10 9 6 3 2 1 
+Torre B: 5 4 
+Torre C: 8 7 
+
+Movimento 217:
+Torre A: 10 9 6 3 2 
+Torre B: 5 4 1 
+Torre C: 8 7 
+
+Movimento 218:
+Torre A: 10 9 6 3 
+Torre B: 5 4 1 
+Torre C: 8 7 2 
+
+Movimento 219:
+Torre A: 10 9 6 3 
+Torre B: 5 4 
+Torre C: 8 7 2 1 
+
+Movimento 220:
+Torre A: 10 9 6 
+Torre B: 5 4 3 
+Torre C: 8 7 2 1 
+
+Movimento 221:
+Torre A: 10 9 6 1 
+Torre B: 5 4 3 
+Torre C: 8 7 2 
+
+Movimento 222:
+Torre A: 10 9 6 1 
+Torre B: 5 4 3 2 
+Torre C: 8 7 
+
+Movimento 223:
+Torre A: 10 9 6 
+Torre B: 5 4 3 2 1 
+Torre C: 8 7 
+
+Movimento 224:
+Torre A: 10 9 
+Torre B: 5 4 3 2 1 
+Torre C: 8 7 6 
+
+Movimento 225:
+Torre A: 10 9 
+Torre B: 5 4 3 2 
+Torre C: 8 7 6 1 
+
+Movimento 226:
+Torre A: 10 9 2 
+Torre B: 5 4 3 
+Torre C: 8 7 6 1 
+
+Movimento 227:
+Torre A: 10 9 2 1 
+Torre B: 5 4 3 
+Torre C: 8 7 6 
+
+Movimento 228:
+Torre A: 10 9 2 1 
+Torre B: 5 4 
+Torre C: 8 7 6 3 
+
+Movimento 229:
+Torre A: 10 9 2 
+Torre B: 5 4 1 
+Torre C: 8 7 6 3 
+
+Movimento 230:
+Torre A: 10 9 
+Torre B: 5 4 1 
+Torre C: 8 7 6 3 2 
+
+Movimento 231:
+Torre A: 10 9 
+Torre B: 5 4 
+Torre C: 8 7 6 3 2 1 
+
+Movimento 232:
+Torre A: 10 9 4 
+Torre B: 5 
+Torre C: 8 7 6 3 2 1 
+
+Movimento 233:
+Torre A: 10 9 4 1 
+Torre B: 5 
+Torre C: 8 7 6 3 2 
+
+Movimento 234:
+Torre A: 10 9 4 1 
+Torre B: 5 2 
+Torre C: 8 7 6 3 
+
+Movimento 235:
+Torre A: 10 9 4 
+Torre B: 5 2 1 
+Torre C: 8 7 6 3 
+
+Movimento 236:
+Torre A: 10 9 4 3 
+Torre B: 5 2 1 
+Torre C: 8 7 6 
+
+Movimento 237:
+Torre A: 10 9 4 3 
+Torre B: 5 2 
+Torre C: 8 7 6 1 
+
+Movimento 238:
+Torre A: 10 9 4 3 2 
+Torre B: 5 
+Torre C: 8 7 6 1 
+
+Movimento 239:
+Torre A: 10 9 4 3 2 1 
+Torre B: 5 
+Torre C: 8 7 6 
+
+Movimento 240:
+Torre A: 10 9 4 3 2 1 
+Torre B: 
+Torre C: 8 7 6 5 
+
+Movimento 241:
+Torre A: 10 9 4 3 2 
+Torre B: 1 
+Torre C: 8 7 6 5 
+
+Movimento 242:
+Torre A: 10 9 4 3 
+Torre B: 1 
+Torre C: 8 7 6 5 2 
+
+Movimento 243:
+Torre A: 10 9 4 3 
+Torre B: 
+Torre C: 8 7 6 5 2 1 
+
+Movimento 244:
+Torre A: 10 9 4 
+Torre B: 3 
+Torre C: 8 7 6 5 2 1 
+
+Movimento 245:
+Torre A: 10 9 4 1 
+Torre B: 3 
+Torre C: 8 7 6 5 2 
+
+Movimento 246:
+Torre A: 10 9 4 1 
+Torre B: 3 2 
+Torre C: 8 7 6 5 
+
+Movimento 247:
+Torre A: 10 9 4 
+Torre B: 3 2 1 
+Torre C: 8 7 6 5 
+
+Movimento 248:
+Torre A: 10 9 
+Torre B: 3 2 1 
+Torre C: 8 7 6 5 4 
+
+Movimento 249:
+Torre A: 10 9 
+Torre B: 3 2 
+Torre C: 8 7 6 5 4 1 
+
+Movimento 250:
+Torre A: 10 9 2 
+Torre B: 3 
+Torre C: 8 7 6 5 4 1 
+
+Movimento 251:
+Torre A: 10 9 2 1 
+Torre B: 3 
+Torre C: 8 7 6 5 4 
+
+Movimento 252:
+Torre A: 10 9 2 1 
+Torre B: 
+Torre C: 8 7 6 5 4 3 
+
+Movimento 253:
+Torre A: 10 9 2 
+Torre B: 1 
+Torre C: 8 7 6 5 4 3 
+
+Movimento 254:
+Torre A: 10 9 
+Torre B: 1 
+Torre C: 8 7 6 5 4 3 2 
+
+Movimento 255:
+Torre A: 10 9 
+Torre B: 
+Torre C: 8 7 6 5 4 3 2 1 
+
+Movimento 256:
+Torre A: 10 
+Torre B: 9 
+Torre C: 8 7 6 5 4 3 2 1 
+
+Movimento 257:
+Torre A: 10 1 
+Torre B: 9 
+Torre C: 8 7 6 5 4 3 2 
+
+Movimento 258:
+Torre A: 10 1 
+Torre B: 9 2 
+Torre C: 8 7 6 5 4 3 
+
+Movimento 259:
+Torre A: 10 
+Torre B: 9 2 1 
+Torre C: 8 7 6 5 4 3 
+
+Movimento 260:
+Torre A: 10 3 
+Torre B: 9 2 1 
+Torre C: 8 7 6 5 4 
+
+Movimento 261:
+Torre A: 10 3 
+Torre B: 9 2 
+Torre C: 8 7 6 5 4 1 
+
+Movimento 262:
+Torre A: 10 3 2 
+Torre B: 9 
+Torre C: 8 7 6 5 4 1 
+
+Movimento 263:
+Torre A: 10 3 2 1 
+Torre B: 9 
+Torre C: 8 7 6 5 4 
+
+Movimento 264:
+Torre A: 10 3 2 1 
+Torre B: 9 4 
+Torre C: 8 7 6 5 
+
+Movimento 265:
+Torre A: 10 3 2 
+Torre B: 9 4 1 
+Torre C: 8 7 6 5 
+
+Movimento 266:
+Torre A: 10 3 
+Torre B: 9 4 1 
+Torre C: 8 7 6 5 2 
+
+Movimento 267:
+Torre A: 10 3 
+Torre B: 9 4 
+Torre C: 8 7 6 5 2 1 
+
+Movimento 268:
+Torre A: 10 
+Torre B: 9 4 3 
+Torre C: 8 7 6 5 2 1 
+
+Movimento 269:
+Torre A: 10 1 
+Torre B: 9 4 3 
+Torre C: 8 7 6 5 2 
+
+Movimento 270:
+Torre A: 10 1 
+Torre B: 9 4 3 2 
+Torre C: 8 7 6 5 
+
+Movimento 271:
+Torre A: 10 
+Torre B: 9 4 3 2 1 
+Torre C: 8 7 6 5 
+
+Movimento 272:
+Torre A: 10 5 
+Torre B: 9 4 3 2 1 
+Torre C: 8 7 6 
+
+Movimento 273:
+Torre A: 10 5 
+Torre B: 9 4 3 2 
+Torre C: 8 7 6 1 
+
+Movimento 274:
+Torre A: 10 5 2 
+Torre B: 9 4 3 
+Torre C: 8 7 6 1 
+
+Movimento 275:
+Torre A: 10 5 2 1 
+Torre B: 9 4 3 
+Torre C: 8 7 6 
+
+Movimento 276:
+Torre A: 10 5 2 1 
+Torre B: 9 4 
+Torre C: 8 7 6 3 
+
+Movimento 277:
+Torre A: 10 5 2 
+Torre B: 9 4 1 
+Torre C: 8 7 6 3 
+
+Movimento 278:
+Torre A: 10 5 
+Torre B: 9 4 1 
+Torre C: 8 7 6 3 2 
+
+Movimento 279:
+Torre A: 10 5 
+Torre B: 9 4 
+Torre C: 8 7 6 3 2 1 
+
+Movimento 280:
+Torre A: 10 5 4 
+Torre B: 9 
+Torre C: 8 7 6 3 2 1 
+
+Movimento 281:
+Torre A: 10 5 4 1 
+Torre B: 9 
+Torre C: 8 7 6 3 2 
+
+Movimento 282:
+Torre A: 10 5 4 1 
+Torre B: 9 2 
+Torre C: 8 7 6 3 
+
+Movimento 283:
+Torre A: 10 5 4 
+Torre B: 9 2 1 
+Torre C: 8 7 6 3 
+
+Movimento 284:
+Torre A: 10 5 4 3 
+Torre B: 9 2 1 
+Torre C: 8 7 6 
+
+Movimento 285:
+Torre A: 10 5 4 3 
+Torre B: 9 2 
+Torre C: 8 7 6 1 
+
+Movimento 286:
+Torre A: 10 5 4 3 2 
+Torre B: 9 
+Torre C: 8 7 6 1 
+
+Movimento 287:
+Torre A: 10 5 4 3 2 1 
+Torre B: 9 
+Torre C: 8 7 6 
+
+Movimento 288:
+Torre A: 10 5 4 3 2 1 
+Torre B: 9 6 
+Torre C: 8 7 
+
+Movimento 289:
+Torre A: 10 5 4 3 2 
+Torre B: 9 6 1 
+Torre C: 8 7 
+
+Movimento 290:
+Torre A: 10 5 4 3 
+Torre B: 9 6 1 
+Torre C: 8 7 2 
+
+Movimento 291:
+Torre A: 10 5 4 3 
+Torre B: 9 6 
+Torre C: 8 7 2 1 
+
+Movimento 292:
+Torre A: 10 5 4 
+Torre B: 9 6 3 
+Torre C: 8 7 2 1 
+
+Movimento 293:
+Torre A: 10 5 4 1 
+Torre B: 9 6 3 
+Torre C: 8 7 2 
+
+Movimento 294:
+Torre A: 10 5 4 1 
+Torre B: 9 6 3 2 
+Torre C: 8 7 
+
+Movimento 295:
+Torre A: 10 5 4 
+Torre B: 9 6 3 2 1 
+Torre C: 8 7 
+
+Movimento 296:
+Torre A: 10 5 
+Torre B: 9 6 3 2 1 
+Torre C: 8 7 4 
+
+Movimento 297:
+Torre A: 10 5 
+Torre B: 9 6 3 2 
+Torre C: 8 7 4 1 
+
+Movimento 298:
+Torre A: 10 5 2 
+Torre B: 9 6 3 
+Torre C: 8 7 4 1 
+
+Movimento 299:
+Torre A: 10 5 2 1 
+Torre B: 9 6 3 
+Torre C: 8 7 4 
+
+Movimento 300:
+Torre A: 10 5 2 1 
+Torre B: 9 6 
+Torre C: 8 7 4 3 
+
+Movimento 301:
+Torre A: 10 5 2 
+Torre B: 9 6 1 
+Torre C: 8 7 4 3 
+
+Movimento 302:
+Torre A: 10 5 
+Torre B: 9 6 1 
+Torre C: 8 7 4 3 2 
+
+Movimento 303:
+Torre A: 10 5 
+Torre B: 9 6 
+Torre C: 8 7 4 3 2 1 
+
+Movimento 304:
+Torre A: 10 
+Torre B: 9 6 5 
+Torre C: 8 7 4 3 2 1 
+
+Movimento 305:
+Torre A: 10 1 
+Torre B: 9 6 5 
+Torre C: 8 7 4 3 2 
+
+Movimento 306:
+Torre A: 10 1 
+Torre B: 9 6 5 2 
+Torre C: 8 7 4 3 
+
+Movimento 307:
+Torre A: 10 
+Torre B: 9 6 5 2 1 
+Torre C: 8 7 4 3 
+
+Movimento 308:
+Torre A: 10 3 
+Torre B: 9 6 5 2 1 
+Torre C: 8 7 4 
+
+Movimento 309:
+Torre A: 10 3 
+Torre B: 9 6 5 2 
+Torre C: 8 7 4 1 
+
+Movimento 310:
+Torre A: 10 3 2 
+Torre B: 9 6 5 
+Torre C: 8 7 4 1 
+
+Movimento 311:
+Torre A: 10 3 2 1 
+Torre B: 9 6 5 
+Torre C: 8 7 4 
+
+Movimento 312:
+Torre A: 10 3 2 1 
+Torre B: 9 6 5 4 
+Torre C: 8 7 
+
+Movimento 313:
+Torre A: 10 3 2 
+Torre B: 9 6 5 4 1 
+Torre C: 8 7 
+
+Movimento 314:
+Torre A: 10 3 
+Torre B: 9 6 5 4 1 
+Torre C: 8 7 2 
+
+Movimento 315:
+Torre A: 10 3 
+Torre B: 9 6 5 4 
+Torre C: 8 7 2 1 
+
+Movimento 316:
+Torre A: 10 
+Torre B: 9 6 5 4 3 
+Torre C: 8 7 2 1 
+
+Movimento 317:
+Torre A: 10 1 
+Torre B: 9 6 5 4 3 
+Torre C: 8 7 2 
+
+Movimento 318:
+Torre A: 10 1 
+Torre B: 9 6 5 4 3 2 
+Torre C: 8 7 
+
+Movimento 319:
+Torre A: 10 
+Torre B: 9 6 5 4 3 2 1 
+Torre C: 8 7 
+
+Movimento 320:
+Torre A: 10 7 
+Torre B: 9 6 5 4 3 2 1 
+Torre C: 8 
+
+Movimento 321:
+Torre A: 10 7 
+Torre B: 9 6 5 4 3 2 
+Torre C: 8 1 
+
+Movimento 322:
+Torre A: 10 7 2 
+Torre B: 9 6 5 4 3 
+Torre C: 8 1 
+
+Movimento 323:
+Torre A: 10 7 2 1 
+Torre B: 9 6 5 4 3 
+Torre C: 8 
+
+Movimento 324:
+Torre A: 10 7 2 1 
+Torre B: 9 6 5 4 
+Torre C: 8 3 
+
+Movimento 325:
+Torre A: 10 7 2 
+Torre B: 9 6 5 4 1 
+Torre C: 8 3 
+
+Movimento 326:
+Torre A: 10 7 
+Torre B: 9 6 5 4 1 
+Torre C: 8 3 2 
+
+Movimento 327:
+Torre A: 10 7 
+Torre B: 9 6 5 4 
+Torre C: 8 3 2 1 
+
+Movimento 328:
+Torre A: 10 7 4 
+Torre B: 9 6 5 
+Torre C: 8 3 2 1 
+
+Movimento 329:
+Torre A: 10 7 4 1 
+Torre B: 9 6 5 
+Torre C: 8 3 2 
+
+Movimento 330:
+Torre A: 10 7 4 1 
+Torre B: 9 6 5 2 
+Torre C: 8 3 
+
+Movimento 331:
+Torre A: 10 7 4 
+Torre B: 9 6 5 2 1 
+Torre C: 8 3 
+
+Movimento 332:
+Torre A: 10 7 4 3 
+Torre B: 9 6 5 2 1 
+Torre C: 8 
+
+Movimento 333:
+Torre A: 10 7 4 3 
+Torre B: 9 6 5 2 
+Torre C: 8 1 
+
+Movimento 334:
+Torre A: 10 7 4 3 2 
+Torre B: 9 6 5 
+Torre C: 8 1 
+
+Movimento 335:
+Torre A: 10 7 4 3 2 1 
+Torre B: 9 6 5 
+Torre C: 8 
+
+Movimento 336:
+Torre A: 10 7 4 3 2 1 
+Torre B: 9 6 
+Torre C: 8 5 
+
+Movimento 337:
+Torre A: 10 7 4 3 2 
+Torre B: 9 6 1 
+Torre C: 8 5 
+
+Movimento 338:
+Torre A: 10 7 4 3 
+Torre B: 9 6 1 
+Torre C: 8 5 2 
+
+Movimento 339:
+Torre A: 10 7 4 3 
+Torre B: 9 6 
+Torre C: 8 5 2 1 
+
+Movimento 340:
+Torre A: 10 7 4 
+Torre B: 9 6 3 
+Torre C: 8 5 2 1 
+
+Movimento 341:
+Torre A: 10 7 4 1 
+Torre B: 9 6 3 
+Torre C: 8 5 2 
+
+Movimento 342:
+Torre A: 10 7 4 1 
+Torre B: 9 6 3 2 
+Torre C: 8 5 
+
+Movimento 343:
+Torre A: 10 7 4 
+Torre B: 9 6 3 2 1 
+Torre C: 8 5 
+
+Movimento 344:
+Torre A: 10 7 
+Torre B: 9 6 3 2 1 
+Torre C: 8 5 4 
+
+Movimento 345:
+Torre A: 10 7 
+Torre B: 9 6 3 2 
+Torre C: 8 5 4 1 
+
+Movimento 346:
+Torre A: 10 7 2 
+Torre B: 9 6 3 
+Torre C: 8 5 4 1 
+
+Movimento 347:
+Torre A: 10 7 2 1 
+Torre B: 9 6 3 
+Torre C: 8 5 4 
+
+Movimento 348:
+Torre A: 10 7 2 1 
+Torre B: 9 6 
+Torre C: 8 5 4 3 
+
+Movimento 349:
+Torre A: 10 7 2 
+Torre B: 9 6 1 
+Torre C: 8 5 4 3 
+
+Movimento 350:
+Torre A: 10 7 
+Torre B: 9 6 1 
+Torre C: 8 5 4 3 2 
+
+Movimento 351:
+Torre A: 10 7 
+Torre B: 9 6 
+Torre C: 8 5 4 3 2 1 
+
+Movimento 352:
+Torre A: 10 7 6 
+Torre B: 9 
+Torre C: 8 5 4 3 2 1 
+
+Movimento 353:
+Torre A: 10 7 6 1 
+Torre B: 9 
+Torre C: 8 5 4 3 2 
+
+Movimento 354:
+Torre A: 10 7 6 1 
+Torre B: 9 2 
+Torre C: 8 5 4 3 
+
+Movimento 355:
+Torre A: 10 7 6 
+Torre B: 9 2 1 
+Torre C: 8 5 4 3 
+
+Movimento 356:
+Torre A: 10 7 6 3 
+Torre B: 9 2 1 
+Torre C: 8 5 4 
+
+Movimento 357:
+Torre A: 10 7 6 3 
+Torre B: 9 2 
+Torre C: 8 5 4 1 
+
+Movimento 358:
+Torre A: 10 7 6 3 2 
+Torre B: 9 
+Torre C: 8 5 4 1 
+
+Movimento 359:
+Torre A: 10 7 6 3 2 1 
+Torre B: 9 
+Torre C: 8 5 4 
+
+Movimento 360:
+Torre A: 10 7 6 3 2 1 
+Torre B: 9 4 
+Torre C: 8 5 
+
+Movimento 361:
+Torre A: 10 7 6 3 2 
+Torre B: 9 4 1 
+Torre C: 8 5 
+
+Movimento 362:
+Torre A: 10 7 6 3 
+Torre B: 9 4 1 
+Torre C: 8 5 2 
+
+Movimento 363:
+Torre A: 10 7 6 3 
+Torre B: 9 4 
+Torre C: 8 5 2 1 
+
+Movimento 364:
+Torre A: 10 7 6 
+Torre B: 9 4 3 
+Torre C: 8 5 2 1 
+
+Movimento 365:
+Torre A: 10 7 6 1 
+Torre B: 9 4 3 
+Torre C: 8 5 2 
+
+Movimento 366:
+Torre A: 10 7 6 1 
+Torre B: 9 4 3 2 
+Torre C: 8 5 
+
+Movimento 367:
+Torre A: 10 7 6 
+Torre B: 9 4 3 2 1 
+Torre C: 8 5 
+
+Movimento 368:
+Torre A: 10 7 6 5 
+Torre B: 9 4 3 2 1 
+Torre C: 8 
+
+Movimento 369:
+Torre A: 10 7 6 5 
+Torre B: 9 4 3 2 
+Torre C: 8 1 
+
+Movimento 370:
+Torre A: 10 7 6 5 2 
+Torre B: 9 4 3 
+Torre C: 8 1 
+
+Movimento 371:
+Torre A: 10 7 6 5 2 1 
+Torre B: 9 4 3 
+Torre C: 8 
+
+Movimento 372:
+Torre A: 10 7 6 5 2 1 
+Torre B: 9 4 
+Torre C: 8 3 
+
+Movimento 373:
+Torre A: 10 7 6 5 2 
+Torre B: 9 4 1 
+Torre C: 8 3 
+
+Movimento 374:
+Torre A: 10 7 6 5 
+Torre B: 9 4 1 
+Torre C: 8 3 2 
+
+Movimento 375:
+Torre A: 10 7 6 5 
+Torre B: 9 4 
+Torre C: 8 3 2 1 
+
+Movimento 376:
+Torre A: 10 7 6 5 4 
+Torre B: 9 
+Torre C: 8 3 2 1 
+
+Movimento 377:
+Torre A: 10 7 6 5 4 1 
+Torre B: 9 
+Torre C: 8 3 2 
+
+Movimento 378:
+Torre A: 10 7 6 5 4 1 
+Torre B: 9 2 
+Torre C: 8 3 
+
+Movimento 379:
+Torre A: 10 7 6 5 4 
+Torre B: 9 2 1 
+Torre C: 8 3 
+
+Movimento 380:
+Torre A: 10 7 6 5 4 3 
+Torre B: 9 2 1 
+Torre C: 8 
+
+Movimento 381:
+Torre A: 10 7 6 5 4 3 
+Torre B: 9 2 
+Torre C: 8 1 
+
+Movimento 382:
+Torre A: 10 7 6 5 4 3 2 
+Torre B: 9 
+Torre C: 8 1 
+
+Movimento 383:
+Torre A: 10 7 6 5 4 3 2 1 
+Torre B: 9 
+Torre C: 8 
+
+Movimento 384:
+Torre A: 10 7 6 5 4 3 2 1 
+Torre B: 9 8 
+Torre C: 
+
+Movimento 385:
+Torre A: 10 7 6 5 4 3 2 
+Torre B: 9 8 1 
+Torre C: 
+
+Movimento 386:
+Torre A: 10 7 6 5 4 3 
+Torre B: 9 8 1 
+Torre C: 2 
+
+Movimento 387:
+Torre A: 10 7 6 5 4 3 
+Torre B: 9 8 
+Torre C: 2 1 
+
+Movimento 388:
+Torre A: 10 7 6 5 4 
+Torre B: 9 8 3 
+Torre C: 2 1 
+
+Movimento 389:
+Torre A: 10 7 6 5 4 1 
+Torre B: 9 8 3 
+Torre C: 2 
+
+Movimento 390:
+Torre A: 10 7 6 5 4 1 
+Torre B: 9 8 3 2 
+Torre C: 
+
+Movimento 391:
+Torre A: 10 7 6 5 4 
+Torre B: 9 8 3 2 1 
+Torre C: 
+
+Movimento 392:
+Torre A: 10 7 6 5 
+Torre B: 9 8 3 2 1 
+Torre C: 4 
+
+Movimento 393:
+Torre A: 10 7 6 5 
+Torre B: 9 8 3 2 
+Torre C: 4 1 
+
+Movimento 394:
+Torre A: 10 7 6 5 2 
+Torre B: 9 8 3 
+Torre C: 4 1 
+
+Movimento 395:
+Torre A: 10 7 6 5 2 1 
+Torre B: 9 8 3 
+Torre C: 4 
+
+Movimento 396:
+Torre A: 10 7 6 5 2 1 
+Torre B: 9 8 
+Torre C: 4 3 
+
+Movimento 397:
+Torre A: 10 7 6 5 2 
+Torre B: 9 8 1 
+Torre C: 4 3 
+
+Movimento 398:
+Torre A: 10 7 6 5 
+Torre B: 9 8 1 
+Torre C: 4 3 2 
+
+Movimento 399:
+Torre A: 10 7 6 5 
+Torre B: 9 8 
+Torre C: 4 3 2 1 
+
+Movimento 400:
+Torre A: 10 7 6 
+Torre B: 9 8 5 
+Torre C: 4 3 2 1 
+
+Movimento 401:
+Torre A: 10 7 6 1 
+Torre B: 9 8 5 
+Torre C: 4 3 2 
+
+Movimento 402:
+Torre A: 10 7 6 1 
+Torre B: 9 8 5 2 
+Torre C: 4 3 
+
+Movimento 403:
+Torre A: 10 7 6 
+Torre B: 9 8 5 2 1 
+Torre C: 4 3 
+
+Movimento 404:
+Torre A: 10 7 6 3 
+Torre B: 9 8 5 2 1 
+Torre C: 4 
+
+Movimento 405:
+Torre A: 10 7 6 3 
+Torre B: 9 8 5 2 
+Torre C: 4 1 
+
+Movimento 406:
+Torre A: 10 7 6 3 2 
+Torre B: 9 8 5 
+Torre C: 4 1 
+
+Movimento 407:
+Torre A: 10 7 6 3 2 1 
+Torre B: 9 8 5 
+Torre C: 4 
+
+Movimento 408:
+Torre A: 10 7 6 3 2 1 
+Torre B: 9 8 5 4 
+Torre C: 
+
+Movimento 409:
+Torre A: 10 7 6 3 2 
+Torre B: 9 8 5 4 1 
+Torre C: 
+
+Movimento 410:
+Torre A: 10 7 6 3 
+Torre B: 9 8 5 4 1 
+Torre C: 2 
+
+Movimento 411:
+Torre A: 10 7 6 3 
+Torre B: 9 8 5 4 
+Torre C: 2 1 
+
+Movimento 412:
+Torre A: 10 7 6 
+Torre B: 9 8 5 4 3 
+Torre C: 2 1 
+
+Movimento 413:
+Torre A: 10 7 6 1 
+Torre B: 9 8 5 4 3 
+Torre C: 2 
+
+Movimento 414:
+Torre A: 10 7 6 1 
+Torre B: 9 8 5 4 3 2 
+Torre C: 
+
+Movimento 415:
+Torre A: 10 7 6 
+Torre B: 9 8 5 4 3 2 1 
+Torre C: 
+
+Movimento 416:
+Torre A: 10 7 
+Torre B: 9 8 5 4 3 2 1 
+Torre C: 6 
+
+Movimento 417:
+Torre A: 10 7 
+Torre B: 9 8 5 4 3 2 
+Torre C: 6 1 
+
+Movimento 418:
+Torre A: 10 7 2 
+Torre B: 9 8 5 4 3 
+Torre C: 6 1 
+
+Movimento 419:
+Torre A: 10 7 2 1 
+Torre B: 9 8 5 4 3 
+Torre C: 6 
+
+Movimento 420:
+Torre A: 10 7 2 1 
+Torre B: 9 8 5 4 
+Torre C: 6 3 
+
+Movimento 421:
+Torre A: 10 7 2 
+Torre B: 9 8 5 4 1 
+Torre C: 6 3 
+
+Movimento 422:
+Torre A: 10 7 
+Torre B: 9 8 5 4 1 
+Torre C: 6 3 2 
+
+Movimento 423:
+Torre A: 10 7 
+Torre B: 9 8 5 4 
+Torre C: 6 3 2 1 
+
+Movimento 424:
+Torre A: 10 7 4 
+Torre B: 9 8 5 
+Torre C: 6 3 2 1 
+
+Movimento 425:
+Torre A: 10 7 4 1 
+Torre B: 9 8 5 
+Torre C: 6 3 2 
+
+Movimento 426:
+Torre A: 10 7 4 1 
+Torre B: 9 8 5 2 
+Torre C: 6 3 
+
+Movimento 427:
+Torre A: 10 7 4 
+Torre B: 9 8 5 2 1 
+Torre C: 6 3 
+
+Movimento 428:
+Torre A: 10 7 4 3 
+Torre B: 9 8 5 2 1 
+Torre C: 6 
+
+Movimento 429:
+Torre A: 10 7 4 3 
+Torre B: 9 8 5 2 
+Torre C: 6 1 
+
+Movimento 430:
+Torre A: 10 7 4 3 2 
+Torre B: 9 8 5 
+Torre C: 6 1 
+
+Movimento 431:
+Torre A: 10 7 4 3 2 1 
+Torre B: 9 8 5 
+Torre C: 6 
+
+Movimento 432:
+Torre A: 10 7 4 3 2 1 
+Torre B: 9 8 
+Torre C: 6 5 
+
+Movimento 433:
+Torre A: 10 7 4 3 2 
+Torre B: 9 8 1 
+Torre C: 6 5 
+
+Movimento 434:
+Torre A: 10 7 4 3 
+Torre B: 9 8 1 
+Torre C: 6 5 2 
+
+Movimento 435:
+Torre A: 10 7 4 3 
+Torre B: 9 8 
+Torre C: 6 5 2 1 
+
+Movimento 436:
+Torre A: 10 7 4 
+Torre B: 9 8 3 
+Torre C: 6 5 2 1 
+
+Movimento 437:
+Torre A: 10 7 4 1 
+Torre B: 9 8 3 
+Torre C: 6 5 2 
+
+Movimento 438:
+Torre A: 10 7 4 1 
+Torre B: 9 8 3 2 
+Torre C: 6 5 
+
+Movimento 439:
+Torre A: 10 7 4 
+Torre B: 9 8 3 2 1 
+Torre C: 6 5 
+
+Movimento 440:
+Torre A: 10 7 
+Torre B: 9 8 3 2 1 
+Torre C: 6 5 4 
+
+Movimento 441:
+Torre A: 10 7 
+Torre B: 9 8 3 2 
+Torre C: 6 5 4 1 
+
+Movimento 442:
+Torre A: 10 7 2 
+Torre B: 9 8 3 
+Torre C: 6 5 4 1 
+
+Movimento 443:
+Torre A: 10 7 2 1 
+Torre B: 9 8 3 
+Torre C: 6 5 4 
+
+Movimento 444:
+Torre A: 10 7 2 1 
+Torre B: 9 8 
+Torre C: 6 5 4 3 
+
+Movimento 445:
+Torre A: 10 7 2 
+Torre B: 9 8 1 
+Torre C: 6 5 4 3 
+
+Movimento 446:
+Torre A: 10 7 
+Torre B: 9 8 1 
+Torre C: 6 5 4 3 2 
+
+Movimento 447:
+Torre A: 10 7 
+Torre B: 9 8 
+Torre C: 6 5 4 3 2 1 
+
+Movimento 448:
+Torre A: 10 
+Torre B: 9 8 7 
+Torre C: 6 5 4 3 2 1 
+
+Movimento 449:
+Torre A: 10 1 
+Torre B: 9 8 7 
+Torre C: 6 5 4 3 2 
+
+Movimento 450:
+Torre A: 10 1 
+Torre B: 9 8 7 2 
+Torre C: 6 5 4 3 
+
+Movimento 451:
+Torre A: 10 
+Torre B: 9 8 7 2 1 
+Torre C: 6 5 4 3 
+
+Movimento 452:
+Torre A: 10 3 
+Torre B: 9 8 7 2 1 
+Torre C: 6 5 4 
+
+Movimento 453:
+Torre A: 10 3 
+Torre B: 9 8 7 2 
+Torre C: 6 5 4 1 
+
+Movimento 454:
+Torre A: 10 3 2 
+Torre B: 9 8 7 
+Torre C: 6 5 4 1 
+
+Movimento 455:
+Torre A: 10 3 2 1 
+Torre B: 9 8 7 
+Torre C: 6 5 4 
+
+Movimento 456:
+Torre A: 10 3 2 1 
+Torre B: 9 8 7 4 
+Torre C: 6 5 
+
+Movimento 457:
+Torre A: 10 3 2 
+Torre B: 9 8 7 4 1 
+Torre C: 6 5 
+
+Movimento 458:
+Torre A: 10 3 
+Torre B: 9 8 7 4 1 
+Torre C: 6 5 2 
+
+Movimento 459:
+Torre A: 10 3 
+Torre B: 9 8 7 4 
+Torre C: 6 5 2 1 
+
+Movimento 460:
+Torre A: 10 
+Torre B: 9 8 7 4 3 
+Torre C: 6 5 2 1 
+
+Movimento 461:
+Torre A: 10 1 
+Torre B: 9 8 7 4 3 
+Torre C: 6 5 2 
+
+Movimento 462:
+Torre A: 10 1 
+Torre B: 9 8 7 4 3 2 
+Torre C: 6 5 
+
+Movimento 463:
+Torre A: 10 
+Torre B: 9 8 7 4 3 2 1 
+Torre C: 6 5 
+
+Movimento 464:
+Torre A: 10 5 
+Torre B: 9 8 7 4 3 2 1 
+Torre C: 6 
+
+Movimento 465:
+Torre A: 10 5 
+Torre B: 9 8 7 4 3 2 
+Torre C: 6 1 
+
+Movimento 466:
+Torre A: 10 5 2 
+Torre B: 9 8 7 4 3 
+Torre C: 6 1 
+
+Movimento 467:
+Torre A: 10 5 2 1 
+Torre B: 9 8 7 4 3 
+Torre C: 6 
+
+Movimento 468:
+Torre A: 10 5 2 1 
+Torre B: 9 8 7 4 
+Torre C: 6 3 
+
+Movimento 469:
+Torre A: 10 5 2 
+Torre B: 9 8 7 4 1 
+Torre C: 6 3 
+
+Movimento 470:
+Torre A: 10 5 
+Torre B: 9 8 7 4 1 
+Torre C: 6 3 2 
+
+Movimento 471:
+Torre A: 10 5 
+Torre B: 9 8 7 4 
+Torre C: 6 3 2 1 
+
+Movimento 472:
+Torre A: 10 5 4 
+Torre B: 9 8 7 
+Torre C: 6 3 2 1 
+
+Movimento 473:
+Torre A: 10 5 4 1 
+Torre B: 9 8 7 
+Torre C: 6 3 2 
+
+Movimento 474:
+Torre A: 10 5 4 1 
+Torre B: 9 8 7 2 
+Torre C: 6 3 
+
+Movimento 475:
+Torre A: 10 5 4 
+Torre B: 9 8 7 2 1 
+Torre C: 6 3 
+
+Movimento 476:
+Torre A: 10 5 4 3 
+Torre B: 9 8 7 2 1 
+Torre C: 6 
+
+Movimento 477:
+Torre A: 10 5 4 3 
+Torre B: 9 8 7 2 
+Torre C: 6 1 
+
+Movimento 478:
+Torre A: 10 5 4 3 2 
+Torre B: 9 8 7 
+Torre C: 6 1 
+
+Movimento 479:
+Torre A: 10 5 4 3 2 1 
+Torre B: 9 8 7 
+Torre C: 6 
+
+Movimento 480:
+Torre A: 10 5 4 3 2 1 
+Torre B: 9 8 7 6 
+Torre C: 
+
+Movimento 481:
+Torre A: 10 5 4 3 2 
+Torre B: 9 8 7 6 1 
+Torre C: 
+
+Movimento 482:
+Torre A: 10 5 4 3 
+Torre B: 9 8 7 6 1 
+Torre C: 2 
+
+Movimento 483:
+Torre A: 10 5 4 3 
+Torre B: 9 8 7 6 
+Torre C: 2 1 
+
+Movimento 484:
+Torre A: 10 5 4 
+Torre B: 9 8 7 6 3 
+Torre C: 2 1 
+
+Movimento 485:
+Torre A: 10 5 4 1 
+Torre B: 9 8 7 6 3 
+Torre C: 2 
+
+Movimento 486:
+Torre A: 10 5 4 1 
+Torre B: 9 8 7 6 3 2 
+Torre C: 
+
+Movimento 487:
+Torre A: 10 5 4 
+Torre B: 9 8 7 6 3 2 1 
+Torre C: 
+
+Movimento 488:
+Torre A: 10 5 
+Torre B: 9 8 7 6 3 2 1 
+Torre C: 4 
+
+Movimento 489:
+Torre A: 10 5 
+Torre B: 9 8 7 6 3 2 
+Torre C: 4 1 
+
+Movimento 490:
+Torre A: 10 5 2 
+Torre B: 9 8 7 6 3 
+Torre C: 4 1 
+
+Movimento 491:
+Torre A: 10 5 2 1 
+Torre B: 9 8 7 6 3 
+Torre C: 4 
+
+Movimento 492:
+Torre A: 10 5 2 1 
+Torre B: 9 8 7 6 
+Torre C: 4 3 
+
+Movimento 493:
+Torre A: 10 5 2 
+Torre B: 9 8 7 6 1 
+Torre C: 4 3 
+
+Movimento 494:
+Torre A: 10 5 
+Torre B: 9 8 7 6 1 
+Torre C: 4 3 2 
+
+Movimento 495:
+Torre A: 10 5 
+Torre B: 9 8 7 6 
+Torre C: 4 3 2 1 
+
+Movimento 496:
+Torre A: 10 
+Torre B: 9 8 7 6 5 
+Torre C: 4 3 2 1 
+
+Movimento 497:
+Torre A: 10 1 
+Torre B: 9 8 7 6 5 
+Torre C: 4 3 2 
+
+Movimento 498:
+Torre A: 10 1 
+Torre B: 9 8 7 6 5 2 
+Torre C: 4 3 
+
+Movimento 499:
+Torre A: 10 
+Torre B: 9 8 7 6 5 2 1 
+Torre C: 4 3 
+
+Movimento 500:
+Torre A: 10 3 
+Torre B: 9 8 7 6 5 2 1 
+Torre C: 4 
+
+Movimento 501:
+Torre A: 10 3 
+Torre B: 9 8 7 6 5 2 
+Torre C: 4 1 
+
+Movimento 502:
+Torre A: 10 3 2 
+Torre B: 9 8 7 6 5 
+Torre C: 4 1 
+
+Movimento 503:
+Torre A: 10 3 2 1 
+Torre B: 9 8 7 6 5 
+Torre C: 4 
+
+Movimento 504:
+Torre A: 10 3 2 1 
+Torre B: 9 8 7 6 5 4 
+Torre C: 
+
+Movimento 505:
+Torre A: 10 3 2 
+Torre B: 9 8 7 6 5 4 1 
+Torre C: 
+
+Movimento 506:
+Torre A: 10 3 
+Torre B: 9 8 7 6 5 4 1 
+Torre C: 2 
+
+Movimento 507:
+Torre A: 10 3 
+Torre B: 9 8 7 6 5 4 
+Torre C: 2 1 
+
+Movimento 508:
+Torre A: 10 
+Torre B: 9 8 7 6 5 4 3 
+Torre C: 2 1 
+
+Movimento 509:
+Torre A: 10 1 
+Torre B: 9 8 7 6 5 4 3 
+Torre C: 2 
+
+Movimento 510:
+Torre A: 10 1 
+Torre B: 9 8 7 6 5 4 3 2 
+Torre C: 
+
+Movimento 511:
+Torre A: 10 
+Torre B: 9 8 7 6 5 4 3 2 1 
+Torre C: 
+
+Movimento 512:
+Torre A: 
+Torre B: 9 8 7 6 5 4 3 2 1 
+Torre C: 10 
+
+Movimento 513:
+Torre A: 
+Torre B: 9 8 7 6 5 4 3 2 
+Torre C: 10 1 
+
+Movimento 514:
+Torre A: 2 
+Torre B: 9 8 7 6 5 4 3 
+Torre C: 10 1 
+
+Movimento 515:
+Torre A: 2 1 
+Torre B: 9 8 7 6 5 4 3 
+Torre C: 10 
+
+Movimento 516:
+Torre A: 2 1 
+Torre B: 9 8 7 6 5 4 
+Torre C: 10 3 
+
+Movimento 517:
+Torre A: 2 
+Torre B: 9 8 7 6 5 4 1 
+Torre C: 10 3 
+
+Movimento 518:
+Torre A: 
+Torre B: 9 8 7 6 5 4 1 
+Torre C: 10 3 2 
+
+Movimento 519:
+Torre A: 
+Torre B: 9 8 7 6 5 4 
+Torre C: 10 3 2 1 
+
+Movimento 520:
+Torre A: 4 
+Torre B: 9 8 7 6 5 
+Torre C: 10 3 2 1 
+
+Movimento 521:
+Torre A: 4 1 
+Torre B: 9 8 7 6 5 
+Torre C: 10 3 2 
+
+Movimento 522:
+Torre A: 4 1 
+Torre B: 9 8 7 6 5 2 
+Torre C: 10 3 
+
+Movimento 523:
+Torre A: 4 
+Torre B: 9 8 7 6 5 2 1 
+Torre C: 10 3 
+
+Movimento 524:
+Torre A: 4 3 
+Torre B: 9 8 7 6 5 2 1 
+Torre C: 10 
+
+Movimento 525:
+Torre A: 4 3 
+Torre B: 9 8 7 6 5 2 
+Torre C: 10 1 
+
+Movimento 526:
+Torre A: 4 3 2 
+Torre B: 9 8 7 6 5 
+Torre C: 10 1 
+
+Movimento 527:
+Torre A: 4 3 2 1 
+Torre B: 9 8 7 6 5 
+Torre C: 10 
+
+Movimento 528:
+Torre A: 4 3 2 1 
+Torre B: 9 8 7 6 
+Torre C: 10 5 
+
+Movimento 529:
+Torre A: 4 3 2 
+Torre B: 9 8 7 6 1 
+Torre C: 10 5 
+
+Movimento 530:
+Torre A: 4 3 
+Torre B: 9 8 7 6 1 
+Torre C: 10 5 2 
+
+Movimento 531:
+Torre A: 4 3 
+Torre B: 9 8 7 6 
+Torre C: 10 5 2 1 
+
+Movimento 532:
+Torre A: 4 
+Torre B: 9 8 7 6 3 
+Torre C: 10 5 2 1 
+
+Movimento 533:
+Torre A: 4 1 
+Torre B: 9 8 7 6 3 
+Torre C: 10 5 2 
+
+Movimento 534:
+Torre A: 4 1 
+Torre B: 9 8 7 6 3 2 
+Torre C: 10 5 
+
+Movimento 535:
+Torre A: 4 
+Torre B: 9 8 7 6 3 2 1 
+Torre C: 10 5 
+
+Movimento 536:
+Torre A: 
+Torre B: 9 8 7 6 3 2 1 
+Torre C: 10 5 4 
+
+Movimento 537:
+Torre A: 
+Torre B: 9 8 7 6 3 2 
+Torre C: 10 5 4 1 
+
+Movimento 538:
+Torre A: 2 
+Torre B: 9 8 7 6 3 
+Torre C: 10 5 4 1 
+
+Movimento 539:
+Torre A: 2 1 
+Torre B: 9 8 7 6 3 
+Torre C: 10 5 4 
+
+Movimento 540:
+Torre A: 2 1 
+Torre B: 9 8 7 6 
+Torre C: 10 5 4 3 
+
+Movimento 541:
+Torre A: 2 
+Torre B: 9 8 7 6 1 
+Torre C: 10 5 4 3 
+
+Movimento 542:
+Torre A: 
+Torre B: 9 8 7 6 1 
+Torre C: 10 5 4 3 2 
+
+Movimento 543:
+Torre A: 
+Torre B: 9 8 7 6 
+Torre C: 10 5 4 3 2 1 
+
+Movimento 544:
+Torre A: 6 
+Torre B: 9 8 7 
+Torre C: 10 5 4 3 2 1 
+
+Movimento 545:
+Torre A: 6 1 
+Torre B: 9 8 7 
+Torre C: 10 5 4 3 2 
+
+Movimento 546:
+Torre A: 6 1 
+Torre B: 9 8 7 2 
+Torre C: 10 5 4 3 
+
+Movimento 547:
+Torre A: 6 
+Torre B: 9 8 7 2 1 
+Torre C: 10 5 4 3 
+
+Movimento 548:
+Torre A: 6 3 
+Torre B: 9 8 7 2 1 
+Torre C: 10 5 4 
+
+Movimento 549:
+Torre A: 6 3 
+Torre B: 9 8 7 2 
+Torre C: 10 5 4 1 
+
+Movimento 550:
+Torre A: 6 3 2 
+Torre B: 9 8 7 
+Torre C: 10 5 4 1 
+
+Movimento 551:
+Torre A: 6 3 2 1 
+Torre B: 9 8 7 
+Torre C: 10 5 4 
+
+Movimento 552:
+Torre A: 6 3 2 1 
+Torre B: 9 8 7 4 
+Torre C: 10 5 
+
+Movimento 553:
+Torre A: 6 3 2 
+Torre B: 9 8 7 4 1 
+Torre C: 10 5 
+
+Movimento 554:
+Torre A: 6 3 
+Torre B: 9 8 7 4 1 
+Torre C: 10 5 2 
+
+Movimento 555:
+Torre A: 6 3 
+Torre B: 9 8 7 4 
+Torre C: 10 5 2 1 
+
+Movimento 556:
+Torre A: 6 
+Torre B: 9 8 7 4 3 
+Torre C: 10 5 2 1 
+
+Movimento 557:
+Torre A: 6 1 
+Torre B: 9 8 7 4 3 
+Torre C: 10 5 2 
+
+Movimento 558:
+Torre A: 6 1 
+Torre B: 9 8 7 4 3 2 
+Torre C: 10 5 
+
+Movimento 559:
+Torre A: 6 
+Torre B: 9 8 7 4 3 2 1 
+Torre C: 10 5 
+
+Movimento 560:
+Torre A: 6 5 
+Torre B: 9 8 7 4 3 2 1 
+Torre C: 10 
+
+Movimento 561:
+Torre A: 6 5 
+Torre B: 9 8 7 4 3 2 
+Torre C: 10 1 
+
+Movimento 562:
+Torre A: 6 5 2 
+Torre B: 9 8 7 4 3 
+Torre C: 10 1 
+
+Movimento 563:
+Torre A: 6 5 2 1 
+Torre B: 9 8 7 4 3 
+Torre C: 10 
+
+Movimento 564:
+Torre A: 6 5 2 1 
+Torre B: 9 8 7 4 
+Torre C: 10 3 
+
+Movimento 565:
+Torre A: 6 5 2 
+Torre B: 9 8 7 4 1 
+Torre C: 10 3 
+
+Movimento 566:
+Torre A: 6 5 
+Torre B: 9 8 7 4 1 
+Torre C: 10 3 2 
+
+Movimento 567:
+Torre A: 6 5 
+Torre B: 9 8 7 4 
+Torre C: 10 3 2 1 
+
+Movimento 568:
+Torre A: 6 5 4 
+Torre B: 9 8 7 
+Torre C: 10 3 2 1 
+
+Movimento 569:
+Torre A: 6 5 4 1 
+Torre B: 9 8 7 
+Torre C: 10 3 2 
+
+Movimento 570:
+Torre A: 6 5 4 1 
+Torre B: 9 8 7 2 
+Torre C: 10 3 
+
+Movimento 571:
+Torre A: 6 5 4 
+Torre B: 9 8 7 2 1 
+Torre C: 10 3 
+
+Movimento 572:
+Torre A: 6 5 4 3 
+Torre B: 9 8 7 2 1 
+Torre C: 10 
+
+Movimento 573:
+Torre A: 6 5 4 3 
+Torre B: 9 8 7 2 
+Torre C: 10 1 
+
+Movimento 574:
+Torre A: 6 5 4 3 2 
+Torre B: 9 8 7 
+Torre C: 10 1 
+
+Movimento 575:
+Torre A: 6 5 4 3 2 1 
+Torre B: 9 8 7 
+Torre C: 10 
+
+Movimento 576:
+Torre A: 6 5 4 3 2 1 
+Torre B: 9 8 
+Torre C: 10 7 
+
+Movimento 577:
+Torre A: 6 5 4 3 2 
+Torre B: 9 8 1 
+Torre C: 10 7 
+
+Movimento 578:
+Torre A: 6 5 4 3 
+Torre B: 9 8 1 
+Torre C: 10 7 2 
+
+Movimento 579:
+Torre A: 6 5 4 3 
+Torre B: 9 8 
+Torre C: 10 7 2 1 
+
+Movimento 580:
+Torre A: 6 5 4 
+Torre B: 9 8 3 
+Torre C: 10 7 2 1 
+
+Movimento 581:
+Torre A: 6 5 4 1 
+Torre B: 9 8 3 
+Torre C: 10 7 2 
+
+Movimento 582:
+Torre A: 6 5 4 1 
+Torre B: 9 8 3 2 
+Torre C: 10 7 
+
+Movimento 583:
+Torre A: 6 5 4 
+Torre B: 9 8 3 2 1 
+Torre C: 10 7 
+
+Movimento 584:
+Torre A: 6 5 
+Torre B: 9 8 3 2 1 
+Torre C: 10 7 4 
+
+Movimento 585:
+Torre A: 6 5 
+Torre B: 9 8 3 2 
+Torre C: 10 7 4 1 
+
+Movimento 586:
+Torre A: 6 5 2 
+Torre B: 9 8 3 
+Torre C: 10 7 4 1 
+
+Movimento 587:
+Torre A: 6 5 2 1 
+Torre B: 9 8 3 
+Torre C: 10 7 4 
+
+Movimento 588:
+Torre A: 6 5 2 1 
+Torre B: 9 8 
+Torre C: 10 7 4 3 
+
+Movimento 589:
+Torre A: 6 5 2 
+Torre B: 9 8 1 
+Torre C: 10 7 4 3 
+
+Movimento 590:
+Torre A: 6 5 
+Torre B: 9 8 1 
+Torre C: 10 7 4 3 2 
+
+Movimento 591:
+Torre A: 6 5 
+Torre B: 9 8 
+Torre C: 10 7 4 3 2 1 
+
+Movimento 592:
+Torre A: 6 
+Torre B: 9 8 5 
+Torre C: 10 7 4 3 2 1 
+
+Movimento 593:
+Torre A: 6 1 
+Torre B: 9 8 5 
+Torre C: 10 7 4 3 2 
+
+Movimento 594:
+Torre A: 6 1 
+Torre B: 9 8 5 2 
+Torre C: 10 7 4 3 
+
+Movimento 595:
+Torre A: 6 
+Torre B: 9 8 5 2 1 
+Torre C: 10 7 4 3 
+
+Movimento 596:
+Torre A: 6 3 
+Torre B: 9 8 5 2 1 
+Torre C: 10 7 4 
+
+Movimento 597:
+Torre A: 6 3 
+Torre B: 9 8 5 2 
+Torre C: 10 7 4 1 
+
+Movimento 598:
+Torre A: 6 3 2 
+Torre B: 9 8 5 
+Torre C: 10 7 4 1 
+
+Movimento 599:
+Torre A: 6 3 2 1 
+Torre B: 9 8 5 
+Torre C: 10 7 4 
+
+Movimento 600:
+Torre A: 6 3 2 1 
+Torre B: 9 8 5 4 
+Torre C: 10 7 
+
+Movimento 601:
+Torre A: 6 3 2 
+Torre B: 9 8 5 4 1 
+Torre C: 10 7 
+
+Movimento 602:
+Torre A: 6 3 
+Torre B: 9 8 5 4 1 
+Torre C: 10 7 2 
+
+Movimento 603:
+Torre A: 6 3 
+Torre B: 9 8 5 4 
+Torre C: 10 7 2 1 
+
+Movimento 604:
+Torre A: 6 
+Torre B: 9 8 5 4 3 
+Torre C: 10 7 2 1 
+
+Movimento 605:
+Torre A: 6 1 
+Torre B: 9 8 5 4 3 
+Torre C: 10 7 2 
+
+Movimento 606:
+Torre A: 6 1 
+Torre B: 9 8 5 4 3 2 
+Torre C: 10 7 
+
+Movimento 607:
+Torre A: 6 
+Torre B: 9 8 5 4 3 2 1 
+Torre C: 10 7 
+
+Movimento 608:
+Torre A: 
+Torre B: 9 8 5 4 3 2 1 
+Torre C: 10 7 6 
+
+Movimento 609:
+Torre A: 
+Torre B: 9 8 5 4 3 2 
+Torre C: 10 7 6 1 
+
+Movimento 610:
+Torre A: 2 
+Torre B: 9 8 5 4 3 
+Torre C: 10 7 6 1 
+
+Movimento 611:
+Torre A: 2 1 
+Torre B: 9 8 5 4 3 
+Torre C: 10 7 6 
+
+Movimento 612:
+Torre A: 2 1 
+Torre B: 9 8 5 4 
+Torre C: 10 7 6 3 
+
+Movimento 613:
+Torre A: 2 
+Torre B: 9 8 5 4 1 
+Torre C: 10 7 6 3 
+
+Movimento 614:
+Torre A: 
+Torre B: 9 8 5 4 1 
+Torre C: 10 7 6 3 2 
+
+Movimento 615:
+Torre A: 
+Torre B: 9 8 5 4 
+Torre C: 10 7 6 3 2 1 
+
+Movimento 616:
+Torre A: 4 
+Torre B: 9 8 5 
+Torre C: 10 7 6 3 2 1 
+
+Movimento 617:
+Torre A: 4 1 
+Torre B: 9 8 5 
+Torre C: 10 7 6 3 2 
+
+Movimento 618:
+Torre A: 4 1 
+Torre B: 9 8 5 2 
+Torre C: 10 7 6 3 
+
+Movimento 619:
+Torre A: 4 
+Torre B: 9 8 5 2 1 
+Torre C: 10 7 6 3 
+
+Movimento 620:
+Torre A: 4 3 
+Torre B: 9 8 5 2 1 
+Torre C: 10 7 6 
+
+Movimento 621:
+Torre A: 4 3 
+Torre B: 9 8 5 2 
+Torre C: 10 7 6 1 
+
+Movimento 622:
+Torre A: 4 3 2 
+Torre B: 9 8 5 
+Torre C: 10 7 6 1 
+
+Movimento 623:
+Torre A: 4 3 2 1 
+Torre B: 9 8 5 
+Torre C: 10 7 6 
+
+Movimento 624:
+Torre A: 4 3 2 1 
+Torre B: 9 8 
+Torre C: 10 7 6 5 
+
+Movimento 625:
+Torre A: 4 3 2 
+Torre B: 9 8 1 
+Torre C: 10 7 6 5 
+
+Movimento 626:
+Torre A: 4 3 
+Torre B: 9 8 1 
+Torre C: 10 7 6 5 2 
+
+Movimento 627:
+Torre A: 4 3 
+Torre B: 9 8 
+Torre C: 10 7 6 5 2 1 
+
+Movimento 628:
+Torre A: 4 
+Torre B: 9 8 3 
+Torre C: 10 7 6 5 2 1 
+
+Movimento 629:
+Torre A: 4 1 
+Torre B: 9 8 3 
+Torre C: 10 7 6 5 2 
+
+Movimento 630:
+Torre A: 4 1 
+Torre B: 9 8 3 2 
+Torre C: 10 7 6 5 
+
+Movimento 631:
+Torre A: 4 
+Torre B: 9 8 3 2 1 
+Torre C: 10 7 6 5 
+
+Movimento 632:
+Torre A: 
+Torre B: 9 8 3 2 1 
+Torre C: 10 7 6 5 4 
+
+Movimento 633:
+Torre A: 
+Torre B: 9 8 3 2 
+Torre C: 10 7 6 5 4 1 
+
+Movimento 634:
+Torre A: 2 
+Torre B: 9 8 3 
+Torre C: 10 7 6 5 4 1 
+
+Movimento 635:
+Torre A: 2 1 
+Torre B: 9 8 3 
+Torre C: 10 7 6 5 4 
+
+Movimento 636:
+Torre A: 2 1 
+Torre B: 9 8 
+Torre C: 10 7 6 5 4 3 
+
+Movimento 637:
+Torre A: 2 
+Torre B: 9 8 1 
+Torre C: 10 7 6 5 4 3 
+
+Movimento 638:
+Torre A: 
+Torre B: 9 8 1 
+Torre C: 10 7 6 5 4 3 2 
+
+Movimento 639:
+Torre A: 
+Torre B: 9 8 
+Torre C: 10 7 6 5 4 3 2 1 
+
+Movimento 640:
+Torre A: 8 
+Torre B: 9 
+Torre C: 10 7 6 5 4 3 2 1 
+
+Movimento 641:
+Torre A: 8 1 
+Torre B: 9 
+Torre C: 10 7 6 5 4 3 2 
+
+Movimento 642:
+Torre A: 8 1 
+Torre B: 9 2 
+Torre C: 10 7 6 5 4 3 
+
+Movimento 643:
+Torre A: 8 
+Torre B: 9 2 1 
+Torre C: 10 7 6 5 4 3 
+
+Movimento 644:
+Torre A: 8 3 
+Torre B: 9 2 1 
+Torre C: 10 7 6 5 4 
+
+Movimento 645:
+Torre A: 8 3 
+Torre B: 9 2 
+Torre C: 10 7 6 5 4 1 
+
+Movimento 646:
+Torre A: 8 3 2 
+Torre B: 9 
+Torre C: 10 7 6 5 4 1 
+
+Movimento 647:
+Torre A: 8 3 2 1 
+Torre B: 9 
+Torre C: 10 7 6 5 4 
+
+Movimento 648:
+Torre A: 8 3 2 1 
+Torre B: 9 4 
+Torre C: 10 7 6 5 
+
+Movimento 649:
+Torre A: 8 3 2 
+Torre B: 9 4 1 
+Torre C: 10 7 6 5 
+
+Movimento 650:
+Torre A: 8 3 
+Torre B: 9 4 1 
+Torre C: 10 7 6 5 2 
+
+Movimento 651:
+Torre A: 8 3 
+Torre B: 9 4 
+Torre C: 10 7 6 5 2 1 
+
+Movimento 652:
+Torre A: 8 
+Torre B: 9 4 3 
+Torre C: 10 7 6 5 2 1 
+
+Movimento 653:
+Torre A: 8 1 
+Torre B: 9 4 3 
+Torre C: 10 7 6 5 2 
+
+Movimento 654:
+Torre A: 8 1 
+Torre B: 9 4 3 2 
+Torre C: 10 7 6 5 
+
+Movimento 655:
+Torre A: 8 
+Torre B: 9 4 3 2 1 
+Torre C: 10 7 6 5 
+
+Movimento 656:
+Torre A: 8 5 
+Torre B: 9 4 3 2 1 
+Torre C: 10 7 6 
+
+Movimento 657:
+Torre A: 8 5 
+Torre B: 9 4 3 2 
+Torre C: 10 7 6 1 
+
+Movimento 658:
+Torre A: 8 5 2 
+Torre B: 9 4 3 
+Torre C: 10 7 6 1 
+
+Movimento 659:
+Torre A: 8 5 2 1 
+Torre B: 9 4 3 
+Torre C: 10 7 6 
+
+Movimento 660:
+Torre A: 8 5 2 1 
+Torre B: 9 4 
+Torre C: 10 7 6 3 
+
+Movimento 661:
+Torre A: 8 5 2 
+Torre B: 9 4 1 
+Torre C: 10 7 6 3 
+
+Movimento 662:
+Torre A: 8 5 
+Torre B: 9 4 1 
+Torre C: 10 7 6 3 2 
+
+Movimento 663:
+Torre A: 8 5 
+Torre B: 9 4 
+Torre C: 10 7 6 3 2 1 
+
+Movimento 664:
+Torre A: 8 5 4 
+Torre B: 9 
+Torre C: 10 7 6 3 2 1 
+
+Movimento 665:
+Torre A: 8 5 4 1 
+Torre B: 9 
+Torre C: 10 7 6 3 2 
+
+Movimento 666:
+Torre A: 8 5 4 1 
+Torre B: 9 2 
+Torre C: 10 7 6 3 
+
+Movimento 667:
+Torre A: 8 5 4 
+Torre B: 9 2 1 
+Torre C: 10 7 6 3 
+
+Movimento 668:
+Torre A: 8 5 4 3 
+Torre B: 9 2 1 
+Torre C: 10 7 6 
+
+Movimento 669:
+Torre A: 8 5 4 3 
+Torre B: 9 2 
+Torre C: 10 7 6 1 
+
+Movimento 670:
+Torre A: 8 5 4 3 2 
+Torre B: 9 
+Torre C: 10 7 6 1 
+
+Movimento 671:
+Torre A: 8 5 4 3 2 1 
+Torre B: 9 
+Torre C: 10 7 6 
+
+Movimento 672:
+Torre A: 8 5 4 3 2 1 
+Torre B: 9 6 
+Torre C: 10 7 
+
+Movimento 673:
+Torre A: 8 5 4 3 2 
+Torre B: 9 6 1 
+Torre C: 10 7 
+
+Movimento 674:
+Torre A: 8 5 4 3 
+Torre B: 9 6 1 
+Torre C: 10 7 2 
+
+Movimento 675:
+Torre A: 8 5 4 3 
+Torre B: 9 6 
+Torre C: 10 7 2 1 
+
+Movimento 676:
+Torre A: 8 5 4 
+Torre B: 9 6 3 
+Torre C: 10 7 2 1 
+
+Movimento 677:
+Torre A: 8 5 4 1 
+Torre B: 9 6 3 
+Torre C: 10 7 2 
+
+Movimento 678:
+Torre A: 8 5 4 1 
+Torre B: 9 6 3 2 
+Torre C: 10 7 
+
+Movimento 679:
+Torre A: 8 5 4 
+Torre B: 9 6 3 2 1 
+Torre C: 10 7 
+
+Movimento 680:
+Torre A: 8 5 
+Torre B: 9 6 3 2 1 
+Torre C: 10 7 4 
+
+Movimento 681:
+Torre A: 8 5 
+Torre B: 9 6 3 2 
+Torre C: 10 7 4 1 
+
+Movimento 682:
+Torre A: 8 5 2 
+Torre B: 9 6 3 
+Torre C: 10 7 4 1 
+
+Movimento 683:
+Torre A: 8 5 2 1 
+Torre B: 9 6 3 
+Torre C: 10 7 4 
+
+Movimento 684:
+Torre A: 8 5 2 1 
+Torre B: 9 6 
+Torre C: 10 7 4 3 
+
+Movimento 685:
+Torre A: 8 5 2 
+Torre B: 9 6 1 
+Torre C: 10 7 4 3 
+
+Movimento 686:
+Torre A: 8 5 
+Torre B: 9 6 1 
+Torre C: 10 7 4 3 2 
+
+Movimento 687:
+Torre A: 8 5 
+Torre B: 9 6 
+Torre C: 10 7 4 3 2 1 
+
+Movimento 688:
+Torre A: 8 
+Torre B: 9 6 5 
+Torre C: 10 7 4 3 2 1 
+
+Movimento 689:
+Torre A: 8 1 
+Torre B: 9 6 5 
+Torre C: 10 7 4 3 2 
+
+Movimento 690:
+Torre A: 8 1 
+Torre B: 9 6 5 2 
+Torre C: 10 7 4 3 
+
+Movimento 691:
+Torre A: 8 
+Torre B: 9 6 5 2 1 
+Torre C: 10 7 4 3 
+
+Movimento 692:
+Torre A: 8 3 
+Torre B: 9 6 5 2 1 
+Torre C: 10 7 4 
+
+Movimento 693:
+Torre A: 8 3 
+Torre B: 9 6 5 2 
+Torre C: 10 7 4 1 
+
+Movimento 694:
+Torre A: 8 3 2 
+Torre B: 9 6 5 
+Torre C: 10 7 4 1 
+
+Movimento 695:
+Torre A: 8 3 2 1 
+Torre B: 9 6 5 
+Torre C: 10 7 4 
+
+Movimento 696:
+Torre A: 8 3 2 1 
+Torre B: 9 6 5 4 
+Torre C: 10 7 
+
+Movimento 697:
+Torre A: 8 3 2 
+Torre B: 9 6 5 4 1 
+Torre C: 10 7 
+
+Movimento 698:
+Torre A: 8 3 
+Torre B: 9 6 5 4 1 
+Torre C: 10 7 2 
+
+Movimento 699:
+Torre A: 8 3 
+Torre B: 9 6 5 4 
+Torre C: 10 7 2 1 
+
+Movimento 700:
+Torre A: 8 
+Torre B: 9 6 5 4 3 
+Torre C: 10 7 2 1 
+
+Movimento 701:
+Torre A: 8 1 
+Torre B: 9 6 5 4 3 
+Torre C: 10 7 2 
+
+Movimento 702:
+Torre A: 8 1 
+Torre B: 9 6 5 4 3 2 
+Torre C: 10 7 
+
+Movimento 703:
+Torre A: 8 
+Torre B: 9 6 5 4 3 2 1 
+Torre C: 10 7 
+
+Movimento 704:
+Torre A: 8 7 
+Torre B: 9 6 5 4 3 2 1 
+Torre C: 10 
+
+Movimento 705:
+Torre A: 8 7 
+Torre B: 9 6 5 4 3 2 
+Torre C: 10 1 
+
+Movimento 706:
+Torre A: 8 7 2 
+Torre B: 9 6 5 4 3 
+Torre C: 10 1 
+
+Movimento 707:
+Torre A: 8 7 2 1 
+Torre B: 9 6 5 4 3 
+Torre C: 10 
+
+Movimento 708:
+Torre A: 8 7 2 1 
+Torre B: 9 6 5 4 
+Torre C: 10 3 
+
+Movimento 709:
+Torre A: 8 7 2 
+Torre B: 9 6 5 4 1 
+Torre C: 10 3 
+
+Movimento 710:
+Torre A: 8 7 
+Torre B: 9 6 5 4 1 
+Torre C: 10 3 2 
+
+Movimento 711:
+Torre A: 8 7 
+Torre B: 9 6 5 4 
+Torre C: 10 3 2 1 
+
+Movimento 712:
+Torre A: 8 7 4 
+Torre B: 9 6 5 
+Torre C: 10 3 2 1 
+
+Movimento 713:
+Torre A: 8 7 4 1 
+Torre B: 9 6 5 
+Torre C: 10 3 2 
+
+Movimento 714:
+Torre A: 8 7 4 1 
+Torre B: 9 6 5 2 
+Torre C: 10 3 
+
+Movimento 715:
+Torre A: 8 7 4 
+Torre B: 9 6 5 2 1 
+Torre C: 10 3 
+
+Movimento 716:
+Torre A: 8 7 4 3 
+Torre B: 9 6 5 2 1 
+Torre C: 10 
+
+Movimento 717:
+Torre A: 8 7 4 3 
+Torre B: 9 6 5 2 
+Torre C: 10 1 
+
+Movimento 718:
+Torre A: 8 7 4 3 2 
+Torre B: 9 6 5 
+Torre C: 10 1 
+
+Movimento 719:
+Torre A: 8 7 4 3 2 1 
+Torre B: 9 6 5 
+Torre C: 10 
+
+Movimento 720:
+Torre A: 8 7 4 3 2 1 
+Torre B: 9 6 
+Torre C: 10 5 
+
+Movimento 721:
+Torre A: 8 7 4 3 2 
+Torre B: 9 6 1 
+Torre C: 10 5 
+
+Movimento 722:
+Torre A: 8 7 4 3 
+Torre B: 9 6 1 
+Torre C: 10 5 2 
+
+Movimento 723:
+Torre A: 8 7 4 3 
+Torre B: 9 6 
+Torre C: 10 5 2 1 
+
+Movimento 724:
+Torre A: 8 7 4 
+Torre B: 9 6 3 
+Torre C: 10 5 2 1 
+
+Movimento 725:
+Torre A: 8 7 4 1 
+Torre B: 9 6 3 
+Torre C: 10 5 2 
+
+Movimento 726:
+Torre A: 8 7 4 1 
+Torre B: 9 6 3 2 
+Torre C: 10 5 
+
+Movimento 727:
+Torre A: 8 7 4 
+Torre B: 9 6 3 2 1 
+Torre C: 10 5 
+
+Movimento 728:
+Torre A: 8 7 
+Torre B: 9 6 3 2 1 
+Torre C: 10 5 4 
+
+Movimento 729:
+Torre A: 8 7 
+Torre B: 9 6 3 2 
+Torre C: 10 5 4 1 
+
+Movimento 730:
+Torre A: 8 7 2 
+Torre B: 9 6 3 
+Torre C: 10 5 4 1 
+
+Movimento 731:
+Torre A: 8 7 2 1 
+Torre B: 9 6 3 
+Torre C: 10 5 4 
+
+Movimento 732:
+Torre A: 8 7 2 1 
+Torre B: 9 6 
+Torre C: 10 5 4 3 
+
+Movimento 733:
+Torre A: 8 7 2 
+Torre B: 9 6 1 
+Torre C: 10 5 4 3 
+
+Movimento 734:
+Torre A: 8 7 
+Torre B: 9 6 1 
+Torre C: 10 5 4 3 2 
+
+Movimento 735:
+Torre A: 8 7 
+Torre B: 9 6 
+Torre C: 10 5 4 3 2 1 
+
+Movimento 736:
+Torre A: 8 7 6 
+Torre B: 9 
+Torre C: 10 5 4 3 2 1 
+
+Movimento 737:
+Torre A: 8 7 6 1 
+Torre B: 9 
+Torre C: 10 5 4 3 2 
+
+Movimento 738:
+Torre A: 8 7 6 1 
+Torre B: 9 2 
+Torre C: 10 5 4 3 
+
+Movimento 739:
+Torre A: 8 7 6 
+Torre B: 9 2 1 
+Torre C: 10 5 4 3 
+
+Movimento 740:
+Torre A: 8 7 6 3 
+Torre B: 9 2 1 
+Torre C: 10 5 4 
+
+Movimento 741:
+Torre A: 8 7 6 3 
+Torre B: 9 2 
+Torre C: 10 5 4 1 
+
+Movimento 742:
+Torre A: 8 7 6 3 2 
+Torre B: 9 
+Torre C: 10 5 4 1 
+
+Movimento 743:
+Torre A: 8 7 6 3 2 1 
+Torre B: 9 
+Torre C: 10 5 4 
+
+Movimento 744:
+Torre A: 8 7 6 3 2 1 
+Torre B: 9 4 
+Torre C: 10 5 
+
+Movimento 745:
+Torre A: 8 7 6 3 2 
+Torre B: 9 4 1 
+Torre C: 10 5 
+
+Movimento 746:
+Torre A: 8 7 6 3 
+Torre B: 9 4 1 
+Torre C: 10 5 2 
+
+Movimento 747:
+Torre A: 8 7 6 3 
+Torre B: 9 4 
+Torre C: 10 5 2 1 
+
+Movimento 748:
+Torre A: 8 7 6 
+Torre B: 9 4 3 
+Torre C: 10 5 2 1 
+
+Movimento 749:
+Torre A: 8 7 6 1 
+Torre B: 9 4 3 
+Torre C: 10 5 2 
+
+Movimento 750:
+Torre A: 8 7 6 1 
+Torre B: 9 4 3 2 
+Torre C: 10 5 
+
+Movimento 751:
+Torre A: 8 7 6 
+Torre B: 9 4 3 2 1 
+Torre C: 10 5 
+
+Movimento 752:
+Torre A: 8 7 6 5 
+Torre B: 9 4 3 2 1 
+Torre C: 10 
+
+Movimento 753:
+Torre A: 8 7 6 5 
+Torre B: 9 4 3 2 
+Torre C: 10 1 
+
+Movimento 754:
+Torre A: 8 7 6 5 2 
+Torre B: 9 4 3 
+Torre C: 10 1 
+
+Movimento 755:
+Torre A: 8 7 6 5 2 1 
+Torre B: 9 4 3 
+Torre C: 10 
+
+Movimento 756:
+Torre A: 8 7 6 5 2 1 
+Torre B: 9 4 
+Torre C: 10 3 
+
+Movimento 757:
+Torre A: 8 7 6 5 2 
+Torre B: 9 4 1 
+Torre C: 10 3 
+
+Movimento 758:
+Torre A: 8 7 6 5 
+Torre B: 9 4 1 
+Torre C: 10 3 2 
+
+Movimento 759:
+Torre A: 8 7 6 5 
+Torre B: 9 4 
+Torre C: 10 3 2 1 
+
+Movimento 760:
+Torre A: 8 7 6 5 4 
+Torre B: 9 
+Torre C: 10 3 2 1 
+
+Movimento 761:
+Torre A: 8 7 6 5 4 1 
+Torre B: 9 
+Torre C: 10 3 2 
+
+Movimento 762:
+Torre A: 8 7 6 5 4 1 
+Torre B: 9 2 
+Torre C: 10 3 
+
+Movimento 763:
+Torre A: 8 7 6 5 4 
+Torre B: 9 2 1 
+Torre C: 10 3 
+
+Movimento 764:
+Torre A: 8 7 6 5 4 3 
+Torre B: 9 2 1 
+Torre C: 10 
+
+Movimento 765:
+Torre A: 8 7 6 5 4 3 
+Torre B: 9 2 
+Torre C: 10 1 
+
+Movimento 766:
+Torre A: 8 7 6 5 4 3 2 
+Torre B: 9 
+Torre C: 10 1 
+
+Movimento 767:
+Torre A: 8 7 6 5 4 3 2 1 
+Torre B: 9 
+Torre C: 10 
+
+Movimento 768:
+Torre A: 8 7 6 5 4 3 2 1 
+Torre B: 
+Torre C: 10 9 
+
+Movimento 769:
+Torre A: 8 7 6 5 4 3 2 
+Torre B: 1 
+Torre C: 10 9 
+
+Movimento 770:
+Torre A: 8 7 6 5 4 3 
+Torre B: 1 
+Torre C: 10 9 2 
+
+Movimento 771:
+Torre A: 8 7 6 5 4 3 
+Torre B: 
+Torre C: 10 9 2 1 
+
+Movimento 772:
+Torre A: 8 7 6 5 4 
+Torre B: 3 
+Torre C: 10 9 2 1 
+
+Movimento 773:
+Torre A: 8 7 6 5 4 1 
+Torre B: 3 
+Torre C: 10 9 2 
+
+Movimento 774:
+Torre A: 8 7 6 5 4 1 
+Torre B: 3 2 
+Torre C: 10 9 
+
+Movimento 775:
+Torre A: 8 7 6 5 4 
+Torre B: 3 2 1 
+Torre C: 10 9 
+
+Movimento 776:
+Torre A: 8 7 6 5 
+Torre B: 3 2 1 
+Torre C: 10 9 4 
+
+Movimento 777:
+Torre A: 8 7 6 5 
+Torre B: 3 2 
+Torre C: 10 9 4 1 
+
+Movimento 778:
+Torre A: 8 7 6 5 2 
+Torre B: 3 
+Torre C: 10 9 4 1 
+
+Movimento 779:
+Torre A: 8 7 6 5 2 1 
+Torre B: 3 
+Torre C: 10 9 4 
+
+Movimento 780:
+Torre A: 8 7 6 5 2 1 
+Torre B: 
+Torre C: 10 9 4 3 
+
+Movimento 781:
+Torre A: 8 7 6 5 2 
+Torre B: 1 
+Torre C: 10 9 4 3 
+
+Movimento 782:
+Torre A: 8 7 6 5 
+Torre B: 1 
+Torre C: 10 9 4 3 2 
+
+Movimento 783:
+Torre A: 8 7 6 5 
+Torre B: 
+Torre C: 10 9 4 3 2 1 
+
+Movimento 784:
+Torre A: 8 7 6 
+Torre B: 5 
+Torre C: 10 9 4 3 2 1 
+
+Movimento 785:
+Torre A: 8 7 6 1 
+Torre B: 5 
+Torre C: 10 9 4 3 2 
+
+Movimento 786:
+Torre A: 8 7 6 1 
+Torre B: 5 2 
+Torre C: 10 9 4 3 
+
+Movimento 787:
+Torre A: 8 7 6 
+Torre B: 5 2 1 
+Torre C: 10 9 4 3 
+
+Movimento 788:
+Torre A: 8 7 6 3 
+Torre B: 5 2 1 
+Torre C: 10 9 4 
+
+Movimento 789:
+Torre A: 8 7 6 3 
+Torre B: 5 2 
+Torre C: 10 9 4 1 
+
+Movimento 790:
+Torre A: 8 7 6 3 2 
+Torre B: 5 
+Torre C: 10 9 4 1 
+
+Movimento 791:
+Torre A: 8 7 6 3 2 1 
+Torre B: 5 
+Torre C: 10 9 4 
+
+Movimento 792:
+Torre A: 8 7 6 3 2 1 
+Torre B: 5 4 
+Torre C: 10 9 
+
+Movimento 793:
+Torre A: 8 7 6 3 2 
+Torre B: 5 4 1 
+Torre C: 10 9 
+
+Movimento 794:
+Torre A: 8 7 6 3 
+Torre B: 5 4 1 
+Torre C: 10 9 2 
+
+Movimento 795:
+Torre A: 8 7 6 3 
+Torre B: 5 4 
+Torre C: 10 9 2 1 
+
+Movimento 796:
+Torre A: 8 7 6 
+Torre B: 5 4 3 
+Torre C: 10 9 2 1 
+
+Movimento 797:
+Torre A: 8 7 6 1 
+Torre B: 5 4 3 
+Torre C: 10 9 2 
+
+Movimento 798:
+Torre A: 8 7 6 1 
+Torre B: 5 4 3 2 
+Torre C: 10 9 
+
+Movimento 799:
+Torre A: 8 7 6 
+Torre B: 5 4 3 2 1 
+Torre C: 10 9 
+
+Movimento 800:
+Torre A: 8 7 
+Torre B: 5 4 3 2 1 
+Torre C: 10 9 6 
+
+Movimento 801:
+Torre A: 8 7 
+Torre B: 5 4 3 2 
+Torre C: 10 9 6 1 
+
+Movimento 802:
+Torre A: 8 7 2 
+Torre B: 5 4 3 
+Torre C: 10 9 6 1 
+
+Movimento 803:
+Torre A: 8 7 2 1 
+Torre B: 5 4 3 
+Torre C: 10 9 6 
+
+Movimento 804:
+Torre A: 8 7 2 1 
+Torre B: 5 4 
+Torre C: 10 9 6 3 
+
+Movimento 805:
+Torre A: 8 7 2 
+Torre B: 5 4 1 
+Torre C: 10 9 6 3 
+
+Movimento 806:
+Torre A: 8 7 
+Torre B: 5 4 1 
+Torre C: 10 9 6 3 2 
+
+Movimento 807:
+Torre A: 8 7 
+Torre B: 5 4 
+Torre C: 10 9 6 3 2 1 
+
+Movimento 808:
+Torre A: 8 7 4 
+Torre B: 5 
+Torre C: 10 9 6 3 2 1 
+
+Movimento 809:
+Torre A: 8 7 4 1 
+Torre B: 5 
+Torre C: 10 9 6 3 2 
+
+Movimento 810:
+Torre A: 8 7 4 1 
+Torre B: 5 2 
+Torre C: 10 9 6 3 
+
+Movimento 811:
+Torre A: 8 7 4 
+Torre B: 5 2 1 
+Torre C: 10 9 6 3 
+
+Movimento 812:
+Torre A: 8 7 4 3 
+Torre B: 5 2 1 
+Torre C: 10 9 6 
+
+Movimento 813:
+Torre A: 8 7 4 3 
+Torre B: 5 2 
+Torre C: 10 9 6 1 
+
+Movimento 814:
+Torre A: 8 7 4 3 2 
+Torre B: 5 
+Torre C: 10 9 6 1 
+
+Movimento 815:
+Torre A: 8 7 4 3 2 1 
+Torre B: 5 
+Torre C: 10 9 6 
+
+Movimento 816:
+Torre A: 8 7 4 3 2 1 
+Torre B: 
+Torre C: 10 9 6 5 
+
+Movimento 817:
+Torre A: 8 7 4 3 2 
+Torre B: 1 
+Torre C: 10 9 6 5 
+
+Movimento 818:
+Torre A: 8 7 4 3 
+Torre B: 1 
+Torre C: 10 9 6 5 2 
+
+Movimento 819:
+Torre A: 8 7 4 3 
+Torre B: 
+Torre C: 10 9 6 5 2 1 
+
+Movimento 820:
+Torre A: 8 7 4 
+Torre B: 3 
+Torre C: 10 9 6 5 2 1 
+
+Movimento 821:
+Torre A: 8 7 4 1 
+Torre B: 3 
+Torre C: 10 9 6 5 2 
+
+Movimento 822:
+Torre A: 8 7 4 1 
+Torre B: 3 2 
+Torre C: 10 9 6 5 
+
+Movimento 823:
+Torre A: 8 7 4 
+Torre B: 3 2 1 
+Torre C: 10 9 6 5 
+
+Movimento 824:
+Torre A: 8 7 
+Torre B: 3 2 1 
+Torre C: 10 9 6 5 4 
+
+Movimento 825:
+Torre A: 8 7 
+Torre B: 3 2 
+Torre C: 10 9 6 5 4 1 
+
+Movimento 826:
+Torre A: 8 7 2 
+Torre B: 3 
+Torre C: 10 9 6 5 4 1 
+
+Movimento 827:
+Torre A: 8 7 2 1 
+Torre B: 3 
+Torre C: 10 9 6 5 4 
+
+Movimento 828:
+Torre A: 8 7 2 1 
+Torre B: 
+Torre C: 10 9 6 5 4 3 
+
+Movimento 829:
+Torre A: 8 7 2 
+Torre B: 1 
+Torre C: 10 9 6 5 4 3 
+
+Movimento 830:
+Torre A: 8 7 
+Torre B: 1 
+Torre C: 10 9 6 5 4 3 2 
+
+Movimento 831:
+Torre A: 8 7 
+Torre B: 
+Torre C: 10 9 6 5 4 3 2 1 
+
+Movimento 832:
+Torre A: 8 
+Torre B: 7 
+Torre C: 10 9 6 5 4 3 2 1 
+
+Movimento 833:
+Torre A: 8 1 
+Torre B: 7 
+Torre C: 10 9 6 5 4 3 2 
+
+Movimento 834:
+Torre A: 8 1 
+Torre B: 7 2 
+Torre C: 10 9 6 5 4 3 
+
+Movimento 835:
+Torre A: 8 
+Torre B: 7 2 1 
+Torre C: 10 9 6 5 4 3 
+
+Movimento 836:
+Torre A: 8 3 
+Torre B: 7 2 1 
+Torre C: 10 9 6 5 4 
+
+Movimento 837:
+Torre A: 8 3 
+Torre B: 7 2 
+Torre C: 10 9 6 5 4 1 
+
+Movimento 838:
+Torre A: 8 3 2 
+Torre B: 7 
+Torre C: 10 9 6 5 4 1 
+
+Movimento 839:
+Torre A: 8 3 2 1 
+Torre B: 7 
+Torre C: 10 9 6 5 4 
+
+Movimento 840:
+Torre A: 8 3 2 1 
+Torre B: 7 4 
+Torre C: 10 9 6 5 
+
+Movimento 841:
+Torre A: 8 3 2 
+Torre B: 7 4 1 
+Torre C: 10 9 6 5 
+
+Movimento 842:
+Torre A: 8 3 
+Torre B: 7 4 1 
+Torre C: 10 9 6 5 2 
+
+Movimento 843:
+Torre A: 8 3 
+Torre B: 7 4 
+Torre C: 10 9 6 5 2 1 
+
+Movimento 844:
+Torre A: 8 
+Torre B: 7 4 3 
+Torre C: 10 9 6 5 2 1 
+
+Movimento 845:
+Torre A: 8 1 
+Torre B: 7 4 3 
+Torre C: 10 9 6 5 2 
+
+Movimento 846:
+Torre A: 8 1 
+Torre B: 7 4 3 2 
+Torre C: 10 9 6 5 
+
+Movimento 847:
+Torre A: 8 
+Torre B: 7 4 3 2 1 
+Torre C: 10 9 6 5 
+
+Movimento 848:
+Torre A: 8 5 
+Torre B: 7 4 3 2 1 
+Torre C: 10 9 6 
+
+Movimento 849:
+Torre A: 8 5 
+Torre B: 7 4 3 2 
+Torre C: 10 9 6 1 
+
+Movimento 850:
+Torre A: 8 5 2 
+Torre B: 7 4 3 
+Torre C: 10 9 6 1 
+
+Movimento 851:
+Torre A: 8 5 2 1 
+Torre B: 7 4 3 
+Torre C: 10 9 6 
+
+Movimento 852:
+Torre A: 8 5 2 1 
+Torre B: 7 4 
+Torre C: 10 9 6 3 
+
+Movimento 853:
+Torre A: 8 5 2 
+Torre B: 7 4 1 
+Torre C: 10 9 6 3 
+
+Movimento 854:
+Torre A: 8 5 
+Torre B: 7 4 1 
+Torre C: 10 9 6 3 2 
+
+Movimento 855:
+Torre A: 8 5 
+Torre B: 7 4 
+Torre C: 10 9 6 3 2 1 
+
+Movimento 856:
+Torre A: 8 5 4 
+Torre B: 7 
+Torre C: 10 9 6 3 2 1 
+
+Movimento 857:
+Torre A: 8 5 4 1 
+Torre B: 7 
+Torre C: 10 9 6 3 2 
+
+Movimento 858:
+Torre A: 8 5 4 1 
+Torre B: 7 2 
+Torre C: 10 9 6 3 
+
+Movimento 859:
+Torre A: 8 5 4 
+Torre B: 7 2 1 
+Torre C: 10 9 6 3 
+
+Movimento 860:
+Torre A: 8 5 4 3 
+Torre B: 7 2 1 
+Torre C: 10 9 6 
+
+Movimento 861:
+Torre A: 8 5 4 3 
+Torre B: 7 2 
+Torre C: 10 9 6 1 
+
+Movimento 862:
+Torre A: 8 5 4 3 2 
+Torre B: 7 
+Torre C: 10 9 6 1 
+
+Movimento 863:
+Torre A: 8 5 4 3 2 1 
+Torre B: 7 
+Torre C: 10 9 6 
+
+Movimento 864:
+Torre A: 8 5 4 3 2 1 
+Torre B: 7 6 
+Torre C: 10 9 
+
+Movimento 865:
+Torre A: 8 5 4 3 2 
+Torre B: 7 6 1 
+Torre C: 10 9 
+
+Movimento 866:
+Torre A: 8 5 4 3 
+Torre B: 7 6 1 
+Torre C: 10 9 2 
+
+Movimento 867:
+Torre A: 8 5 4 3 
+Torre B: 7 6 
+Torre C: 10 9 2 1 
+
+Movimento 868:
+Torre A: 8 5 4 
+Torre B: 7 6 3 
+Torre C: 10 9 2 1 
+
+Movimento 869:
+Torre A: 8 5 4 1 
+Torre B: 7 6 3 
+Torre C: 10 9 2 
+
+Movimento 870:
+Torre A: 8 5 4 1 
+Torre B: 7 6 3 2 
+Torre C: 10 9 
+
+Movimento 871:
+Torre A: 8 5 4 
+Torre B: 7 6 3 2 1 
+Torre C: 10 9 
+
+Movimento 872:
+Torre A: 8 5 
+Torre B: 7 6 3 2 1 
+Torre C: 10 9 4 
+
+Movimento 873:
+Torre A: 8 5 
+Torre B: 7 6 3 2 
+Torre C: 10 9 4 1 
+
+Movimento 874:
+Torre A: 8 5 2 
+Torre B: 7 6 3 
+Torre C: 10 9 4 1 
+
+Movimento 875:
+Torre A: 8 5 2 1 
+Torre B: 7 6 3 
+Torre C: 10 9 4 
+
+Movimento 876:
+Torre A: 8 5 2 1 
+Torre B: 7 6 
+Torre C: 10 9 4 3 
+
+Movimento 877:
+Torre A: 8 5 2 
+Torre B: 7 6 1 
+Torre C: 10 9 4 3 
+
+Movimento 878:
+Torre A: 8 5 
+Torre B: 7 6 1 
+Torre C: 10 9 4 3 2 
+
+Movimento 879:
+Torre A: 8 5 
+Torre B: 7 6 
+Torre C: 10 9 4 3 2 1 
+
+Movimento 880:
+Torre A: 8 
+Torre B: 7 6 5 
+Torre C: 10 9 4 3 2 1 
+
+Movimento 881:
+Torre A: 8 1 
+Torre B: 7 6 5 
+Torre C: 10 9 4 3 2 
+
+Movimento 882:
+Torre A: 8 1 
+Torre B: 7 6 5 2 
+Torre C: 10 9 4 3 
+
+Movimento 883:
+Torre A: 8 
+Torre B: 7 6 5 2 1 
+Torre C: 10 9 4 3 
+
+Movimento 884:
+Torre A: 8 3 
+Torre B: 7 6 5 2 1 
+Torre C: 10 9 4 
+
+Movimento 885:
+Torre A: 8 3 
+Torre B: 7 6 5 2 
+Torre C: 10 9 4 1 
+
+Movimento 886:
+Torre A: 8 3 2 
+Torre B: 7 6 5 
+Torre C: 10 9 4 1 
+
+Movimento 887:
+Torre A: 8 3 2 1 
+Torre B: 7 6 5 
+Torre C: 10 9 4 
+
+Movimento 888:
+Torre A: 8 3 2 1 
+Torre B: 7 6 5 4 
+Torre C: 10 9 
+
+Movimento 889:
+Torre A: 8 3 2 
+Torre B: 7 6 5 4 1 
+Torre C: 10 9 
+
+Movimento 890:
+Torre A: 8 3 
+Torre B: 7 6 5 4 1 
+Torre C: 10 9 2 
+
+Movimento 891:
+Torre A: 8 3 
+Torre B: 7 6 5 4 
+Torre C: 10 9 2 1 
+
+Movimento 892:
+Torre A: 8 
+Torre B: 7 6 5 4 3 
+Torre C: 10 9 2 1 
+
+Movimento 893:
+Torre A: 8 1 
+Torre B: 7 6 5 4 3 
+Torre C: 10 9 2 
+
+Movimento 894:
+Torre A: 8 1 
+Torre B: 7 6 5 4 3 2 
+Torre C: 10 9 
+
+Movimento 895:
+Torre A: 8 
+Torre B: 7 6 5 4 3 2 1 
+Torre C: 10 9 
+
+Movimento 896:
+Torre A: 
+Torre B: 7 6 5 4 3 2 1 
+Torre C: 10 9 8 
+
+Movimento 897:
+Torre A: 
+Torre B: 7 6 5 4 3 2 
+Torre C: 10 9 8 1 
+
+Movimento 898:
+Torre A: 2 
+Torre B: 7 6 5 4 3 
+Torre C: 10 9 8 1 
+
+Movimento 899:
+Torre A: 2 1 
+Torre B: 7 6 5 4 3 
+Torre C: 10 9 8 
+
+Movimento 900:
+Torre A: 2 1 
+Torre B: 7 6 5 4 
+Torre C: 10 9 8 3 
+
+Movimento 901:
+Torre A: 2 
+Torre B: 7 6 5 4 1 
+Torre C: 10 9 8 3 
+
+Movimento 902:
+Torre A: 
+Torre B: 7 6 5 4 1 
+Torre C: 10 9 8 3 2 
+
+Movimento 903:
+Torre A: 
+Torre B: 7 6 5 4 
+Torre C: 10 9 8 3 2 1 
+
+Movimento 904:
+Torre A: 4 
+Torre B: 7 6 5 
+Torre C: 10 9 8 3 2 1 
+
+Movimento 905:
+Torre A: 4 1 
+Torre B: 7 6 5 
+Torre C: 10 9 8 3 2 
+
+Movimento 906:
+Torre A: 4 1 
+Torre B: 7 6 5 2 
+Torre C: 10 9 8 3 
+
+Movimento 907:
+Torre A: 4 
+Torre B: 7 6 5 2 1 
+Torre C: 10 9 8 3 
+
+Movimento 908:
+Torre A: 4 3 
+Torre B: 7 6 5 2 1 
+Torre C: 10 9 8 
+
+Movimento 909:
+Torre A: 4 3 
+Torre B: 7 6 5 2 
+Torre C: 10 9 8 1 
+
+Movimento 910:
+Torre A: 4 3 2 
+Torre B: 7 6 5 
+Torre C: 10 9 8 1 
+
+Movimento 911:
+Torre A: 4 3 2 1 
+Torre B: 7 6 5 
+Torre C: 10 9 8 
+
+Movimento 912:
+Torre A: 4 3 2 1 
+Torre B: 7 6 
+Torre C: 10 9 8 5 
+
+Movimento 913:
+Torre A: 4 3 2 
+Torre B: 7 6 1 
+Torre C: 10 9 8 5 
+
+Movimento 914:
+Torre A: 4 3 
+Torre B: 7 6 1 
+Torre C: 10 9 8 5 2 
+
+Movimento 915:
+Torre A: 4 3 
+Torre B: 7 6 
+Torre C: 10 9 8 5 2 1 
+
+Movimento 916:
+Torre A: 4 
+Torre B: 7 6 3 
+Torre C: 10 9 8 5 2 1 
+
+Movimento 917:
+Torre A: 4 1 
+Torre B: 7 6 3 
+Torre C: 10 9 8 5 2 
+
+Movimento 918:
+Torre A: 4 1 
+Torre B: 7 6 3 2 
+Torre C: 10 9 8 5 
+
+Movimento 919:
+Torre A: 4 
+Torre B: 7 6 3 2 1 
+Torre C: 10 9 8 5 
+
+Movimento 920:
+Torre A: 
+Torre B: 7 6 3 2 1 
+Torre C: 10 9 8 5 4 
+
+Movimento 921:
+Torre A: 
+Torre B: 7 6 3 2 
+Torre C: 10 9 8 5 4 1 
+
+Movimento 922:
+Torre A: 2 
+Torre B: 7 6 3 
+Torre C: 10 9 8 5 4 1 
+
+Movimento 923:
+Torre A: 2 1 
+Torre B: 7 6 3 
+Torre C: 10 9 8 5 4 
+
+Movimento 924:
+Torre A: 2 1 
+Torre B: 7 6 
+Torre C: 10 9 8 5 4 3 
+
+Movimento 925:
+Torre A: 2 
+Torre B: 7 6 1 
+Torre C: 10 9 8 5 4 3 
+
+Movimento 926:
+Torre A: 
+Torre B: 7 6 1 
+Torre C: 10 9 8 5 4 3 2 
+
+Movimento 927:
+Torre A: 
+Torre B: 7 6 
+Torre C: 10 9 8 5 4 3 2 1 
+
+Movimento 928:
+Torre A: 6 
+Torre B: 7 
+Torre C: 10 9 8 5 4 3 2 1 
+
+Movimento 929:
+Torre A: 6 1 
+Torre B: 7 
+Torre C: 10 9 8 5 4 3 2 
+
+Movimento 930:
+Torre A: 6 1 
+Torre B: 7 2 
+Torre C: 10 9 8 5 4 3 
+
+Movimento 931:
+Torre A: 6 
+Torre B: 7 2 1 
+Torre C: 10 9 8 5 4 3 
+
+Movimento 932:
+Torre A: 6 3 
+Torre B: 7 2 1 
+Torre C: 10 9 8 5 4 
+
+Movimento 933:
+Torre A: 6 3 
+Torre B: 7 2 
+Torre C: 10 9 8 5 4 1 
+
+Movimento 934:
+Torre A: 6 3 2 
+Torre B: 7 
+Torre C: 10 9 8 5 4 1 
+
+Movimento 935:
+Torre A: 6 3 2 1 
+Torre B: 7 
+Torre C: 10 9 8 5 4 
+
+Movimento 936:
+Torre A: 6 3 2 1 
+Torre B: 7 4 
+Torre C: 10 9 8 5 
+
+Movimento 937:
+Torre A: 6 3 2 
+Torre B: 7 4 1 
+Torre C: 10 9 8 5 
+
+Movimento 938:
+Torre A: 6 3 
+Torre B: 7 4 1 
+Torre C: 10 9 8 5 2 
+
+Movimento 939:
+Torre A: 6 3 
+Torre B: 7 4 
+Torre C: 10 9 8 5 2 1 
+
+Movimento 940:
+Torre A: 6 
+Torre B: 7 4 3 
+Torre C: 10 9 8 5 2 1 
+
+Movimento 941:
+Torre A: 6 1 
+Torre B: 7 4 3 
+Torre C: 10 9 8 5 2 
+
+Movimento 942:
+Torre A: 6 1 
+Torre B: 7 4 3 2 
+Torre C: 10 9 8 5 
+
+Movimento 943:
+Torre A: 6 
+Torre B: 7 4 3 2 1 
+Torre C: 10 9 8 5 
+
+Movimento 944:
+Torre A: 6 5 
+Torre B: 7 4 3 2 1 
+Torre C: 10 9 8 
+
+Movimento 945:
+Torre A: 6 5 
+Torre B: 7 4 3 2 
+Torre C: 10 9 8 1 
+
+Movimento 946:
+Torre A: 6 5 2 
+Torre B: 7 4 3 
+Torre C: 10 9 8 1 
+
+Movimento 947:
+Torre A: 6 5 2 1 
+Torre B: 7 4 3 
+Torre C: 10 9 8 
+
+Movimento 948:
+Torre A: 6 5 2 1 
+Torre B: 7 4 
+Torre C: 10 9 8 3 
+
+Movimento 949:
+Torre A: 6 5 2 
+Torre B: 7 4 1 
+Torre C: 10 9 8 3 
+
+Movimento 950:
+Torre A: 6 5 
+Torre B: 7 4 1 
+Torre C: 10 9 8 3 2 
+
+Movimento 951:
+Torre A: 6 5 
+Torre B: 7 4 
+Torre C: 10 9 8 3 2 1 
+
+Movimento 952:
+Torre A: 6 5 4 
+Torre B: 7 
+Torre C: 10 9 8 3 2 1 
+
+Movimento 953:
+Torre A: 6 5 4 1 
+Torre B: 7 
+Torre C: 10 9 8 3 2 
+
+Movimento 954:
+Torre A: 6 5 4 1 
+Torre B: 7 2 
+Torre C: 10 9 8 3 
+
+Movimento 955:
+Torre A: 6 5 4 
+Torre B: 7 2 1 
+Torre C: 10 9 8 3 
+
+Movimento 956:
+Torre A: 6 5 4 3 
+Torre B: 7 2 1 
+Torre C: 10 9 8 
+
+Movimento 957:
+Torre A: 6 5 4 3 
+Torre B: 7 2 
+Torre C: 10 9 8 1 
+
+Movimento 958:
+Torre A: 6 5 4 3 2 
+Torre B: 7 
+Torre C: 10 9 8 1 
+
+Movimento 959:
+Torre A: 6 5 4 3 2 1 
+Torre B: 7 
+Torre C: 10 9 8 
+
+Movimento 960:
+Torre A: 6 5 4 3 2 1 
+Torre B: 
+Torre C: 10 9 8 7 
+
+Movimento 961:
+Torre A: 6 5 4 3 2 
+Torre B: 1 
+Torre C: 10 9 8 7 
+
+Movimento 962:
+Torre A: 6 5 4 3 
+Torre B: 1 
+Torre C: 10 9 8 7 2 
+
+Movimento 963:
+Torre A: 6 5 4 3 
+Torre B: 
+Torre C: 10 9 8 7 2 1 
+
+Movimento 964:
+Torre A: 6 5 4 
+Torre B: 3 
+Torre C: 10 9 8 7 2 1 
+
+Movimento 965:
+Torre A: 6 5 4 1 
+Torre B: 3 
+Torre C: 10 9 8 7 2 
+
+Movimento 966:
+Torre A: 6 5 4 1 
+Torre B: 3 2 
+Torre C: 10 9 8 7 
+
+Movimento 967:
+Torre A: 6 5 4 
+Torre B: 3 2 1 
+Torre C: 10 9 8 7 
+
+Movimento 968:
+Torre A: 6 5 
+Torre B: 3 2 1 
+Torre C: 10 9 8 7 4 
+
+Movimento 969:
+Torre A: 6 5 
+Torre B: 3 2 
+Torre C: 10 9 8 7 4 1 
+
+Movimento 970:
+Torre A: 6 5 2 
+Torre B: 3 
+Torre C: 10 9 8 7 4 1 
+
+Movimento 971:
+Torre A: 6 5 2 1 
+Torre B: 3 
+Torre C: 10 9 8 7 4 
+
+Movimento 972:
+Torre A: 6 5 2 1 
+Torre B: 
+Torre C: 10 9 8 7 4 3 
+
+Movimento 973:
+Torre A: 6 5 2 
+Torre B: 1 
+Torre C: 10 9 8 7 4 3 
+
+Movimento 974:
+Torre A: 6 5 
+Torre B: 1 
+Torre C: 10 9 8 7 4 3 2 
+
+Movimento 975:
+Torre A: 6 5 
+Torre B: 
+Torre C: 10 9 8 7 4 3 2 1 
+
+Movimento 976:
+Torre A: 6 
+Torre B: 5 
+Torre C: 10 9 8 7 4 3 2 1 
+
+Movimento 977:
+Torre A: 6 1 
+Torre B: 5 
+Torre C: 10 9 8 7 4 3 2 
+
+Movimento 978:
+Torre A: 6 1 
+Torre B: 5 2 
+Torre C: 10 9 8 7 4 3 
+
+Movimento 979:
+Torre A: 6 
+Torre B: 5 2 1 
+Torre C: 10 9 8 7 4 3 
+
+Movimento 980:
+Torre A: 6 3 
+Torre B: 5 2 1 
+Torre C: 10 9 8 7 4 
+
+Movimento 981:
+Torre A: 6 3 
+Torre B: 5 2 
+Torre C: 10 9 8 7 4 1 
+
+Movimento 982:
+Torre A: 6 3 2 
+Torre B: 5 
+Torre C: 10 9 8 7 4 1 
+
+Movimento 983:
+Torre A: 6 3 2 1 
+Torre B: 5 
+Torre C: 10 9 8 7 4 
+
+Movimento 984:
+Torre A: 6 3 2 1 
+Torre B: 5 4 
+Torre C: 10 9 8 7 
+
+Movimento 985:
+Torre A: 6 3 2 
+Torre B: 5 4 1 
+Torre C: 10 9 8 7 
+
+Movimento 986:
+Torre A: 6 3 
+Torre B: 5 4 1 
+Torre C: 10 9 8 7 2 
+
+Movimento 987:
+Torre A: 6 3 
+Torre B: 5 4 
+Torre C: 10 9 8 7 2 1 
+
+Movimento 988:
+Torre A: 6 
+Torre B: 5 4 3 
+Torre C: 10 9 8 7 2 1 
+
+Movimento 989:
+Torre A: 6 1 
+Torre B: 5 4 3 
+Torre C: 10 9 8 7 2 
+
+Movimento 990:
+Torre A: 6 1 
+Torre B: 5 4 3 2 
+Torre C: 10 9 8 7 
+
+Movimento 991:
+Torre A: 6 
+Torre B: 5 4 3 2 1 
+Torre C: 10 9 8 7 
+
+Movimento 992:
+Torre A: 
+Torre B: 5 4 3 2 1 
+Torre C: 10 9 8 7 6 
+
+Movimento 993:
+Torre A: 
+Torre B: 5 4 3 2 
+Torre C: 10 9 8 7 6 1 
+
+Movimento 994:
+Torre A: 2 
+Torre B: 5 4 3 
+Torre C: 10 9 8 7 6 1 
+
+Movimento 995:
+Torre A: 2 1 
+Torre B: 5 4 3 
+Torre C: 10 9 8 7 6 
+
+Movimento 996:
+Torre A: 2 1 
+Torre B: 5 4 
+Torre C: 10 9 8 7 6 3 
+
+Movimento 997:
+Torre A: 2 
+Torre B: 5 4 1 
+Torre C: 10 9 8 7 6 3 
+
+Movimento 998:
+Torre A: 
+Torre B: 5 4 1 
+Torre C: 10 9 8 7 6 3 2 
+
+Movimento 999:
+Torre A: 
+Torre B: 5 4 
+Torre C: 10 9 8 7 6 3 2 1 
+
+Movimento 1000:
+Torre A: 4 
+Torre B: 5 
+Torre C: 10 9 8 7 6 3 2 1 
+
+Movimento 1001:
+Torre A: 4 1 
+Torre B: 5 
+Torre C: 10 9 8 7 6 3 2 
+
+Movimento 1002:
+Torre A: 4 1 
+Torre B: 5 2 
+Torre C: 10 9 8 7 6 3 
+
+Movimento 1003:
+Torre A: 4 
+Torre B: 5 2 1 
+Torre C: 10 9 8 7 6 3 
+
+Movimento 1004:
+Torre A: 4 3 
+Torre B: 5 2 1 
+Torre C: 10 9 8 7 6 
+
+Movimento 1005:
+Torre A: 4 3 
+Torre B: 5 2 
+Torre C: 10 9 8 7 6 1 
+
+Movimento 1006:
+Torre A: 4 3 2 
+Torre B: 5 
+Torre C: 10 9 8 7 6 1 
+
+Movimento 1007:
+Torre A: 4 3 2 1 
+Torre B: 5 
+Torre C: 10 9 8 7 6 
+
+Movimento 1008:
+Torre A: 4 3 2 1 
+Torre B: 
+Torre C: 10 9 8 7 6 5 
+
+Movimento 1009:
+Torre A: 4 3 2 
+Torre B: 1 
+Torre C: 10 9 8 7 6 5 
+
+Movimento 1010:
+Torre A: 4 3 
+Torre B: 1 
+Torre C: 10 9 8 7 6 5 2 
+
+Movimento 1011:
+Torre A: 4 3 
+Torre B: 
+Torre C: 10 9 8 7 6 5 2 1 
+
+Movimento 1012:
+Torre A: 4 
+Torre B: 3 
+Torre C: 10 9 8 7 6 5 2 1 
+
+Movimento 1013:
+Torre A: 4 1 
+Torre B: 3 
+Torre C: 10 9 8 7 6 5 2 
+
+Movimento 1014:
+Torre A: 4 1 
+Torre B: 3 2 
+Torre C: 10 9 8 7 6 5 
+
+Movimento 1015:
+Torre A: 4 
+Torre B: 3 2 1 
+Torre C: 10 9 8 7 6 5 
+
+Movimento 1016:
+Torre A: 
+Torre B: 3 2 1 
+Torre C: 10 9 8 7 6 5 4 
+
+Movimento 1017:
+Torre A: 
+Torre B: 3 2 
+Torre C: 10 9 8 7 6 5 4 1 
+
+Movimento 1018:
+Torre A: 2 
+Torre B: 3 
+Torre C: 10 9 8 7 6 5 4 1 
+
+Movimento 1019:
+Torre A: 2 1 
+Torre B: 3 
+Torre C: 10 9 8 7 6 5 4 
+
+Movimento 1020:
+Torre A: 2 1 
+Torre B: 
+Torre C: 10 9 8 7 6 5 4 3 
+
+Movimento 1021:
+Torre A: 2 
+Torre B: 1 
+Torre C: 10 9 8 7 6 5 4 3 
+
+Movimento 1022:
+Torre A: 
+Torre B: 1 
+Torre C: 10 9 8 7 6 5 4 3 2 
+
+Movimento 1023:
+Torre A: 
+Torre B: 
+Torre C: 10 9 8 7 6 5 4 3 2 1 
+

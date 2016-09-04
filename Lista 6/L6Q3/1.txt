@@ -1,0 +1,8 @@
+Lider = Thiago
+Lider = Thiago
+1.Thiago
+2.Rodrigo
+3.Daniele Soares
+4.Pedro
+5.Erick
+6.João

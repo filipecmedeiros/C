@@ -1,0 +1,80 @@
+Estado inicial:
+Torre A: 10 5 3 1 
+Torre B: 
+Torre C: 
+
+Movimento 1:
+Torre A: 10 5 3 
+Torre B: 1 
+Torre C: 
+
+Movimento 2:
+Torre A: 10 5 
+Torre B: 1 
+Torre C: 3 
+
+Movimento 3:
+Torre A: 10 5 
+Torre B: 
+Torre C: 3 1 
+
+Movimento 4:
+Torre A: 10 
+Torre B: 5 
+Torre C: 3 1 
+
+Movimento 5:
+Torre A: 10 1 
+Torre B: 5 
+Torre C: 3 
+
+Movimento 6:
+Torre A: 10 1 
+Torre B: 5 3 
+Torre C: 
+
+Movimento 7:
+Torre A: 10 
+Torre B: 5 3 1 
+Torre C: 
+
+Movimento 8:
+Torre A: 
+Torre B: 5 3 1 
+Torre C: 10 
+
+Movimento 9:
+Torre A: 
+Torre B: 5 3 
+Torre C: 10 1 
+
+Movimento 10:
+Torre A: 3 
+Torre B: 5 
+Torre C: 10 1 
+
+Movimento 11:
+Torre A: 3 1 
+Torre B: 5 
+Torre C: 10 
+
+Movimento 12:
+Torre A: 3 1 
+Torre B: 
+Torre C: 10 5 
+
+Movimento 13:
+Torre A: 3 
+Torre B: 1 
+Torre C: 10 5 
+
+Movimento 14:
+Torre A: 
+Torre B: 1 
+Torre C: 10 5 3 
+
+Movimento 15:
+Torre A: 
+Torre B: 
+Torre C: 10 5 3 1 
+
